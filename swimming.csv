@@ -1,0 +1,1532 @@
+olympics_loc, year, event, gender, group, country, athlete_name, result
+Paris, 1900, 1000m Freestyle, Men, Swimming,GBR, John Arthur Jarvis, 00:13:40.200
+Paris, 1900, 1000m Freestyle, Men,Swimming,AUT, Otto Wahle, 00:14:53.600
+Paris, 1900, 1000m Freestyle, Men, Swimming,HUN, Zoltan Halmay, 00:15:16.400
+Paris, 1900, 1000m Freestyle, Men, Swimming,GER, Max Hainle, 00:15:22.600
+Paris, 1900, 1000m Freestyle, Men,Swimming,FRA, Louis Martin, 00:16:30.400
+Paris, 1900, 1000m Freestyle, Men, Swimming,FRA, Georges Leuillieux, 00:16:53.200
+Paris, 1900, 1000m Freestyle, Men,Swimming, FRA, Maurice Hochepied, 00:16:53.400
+Paris, 1900, 1000m Freestyle, Men, Swimming,FRA, Jules Verbecke, 00:17:13.800
+Paris, 1900, 1000m Freestyle, Men, Swimming,SWE, Erik Eriksson, 00:17:50.000
+Paris, 1900, 200m Backstroke, Men, Swimming, GER, Ernst Hoppenberg, 00:02:47.000
+Paris, 1900, 200m Backstroke, Men, Swimming,AUT, Karl Ruberl, 00:02:56.000
+Paris, 1900, 200m Backstroke, Men,  Swimming,NED, Johannes Drost, 00:03:01.000
+Paris, 1900, 200m Backstroke, Men, Swimming, NED, Johannes Dirk Bloemen, 00:03:02.200
+Paris, 1900, 200m Backstroke, Men, Swimming, FRA, Bill Burgess, 00:03:12.000
+Paris, 1900, 200m Backstroke, Men, Swimming, FRA, De Romand De Romand, 00:03:38.000
+Paris, 1900, 200m Backstroke, Men, Swimming, ITA, Paolo Bussetti, 00:03:45.000
+Paris, 1900, 200m Backstroke, Men, Swimming, SWE, Erik Eriksson, 00:03:56.400
+Paris, 1900, 4000m Freestyle, Men, Swimming, GBR, John Arthur Jarvis, 00:58:24.000
+Paris, 1900, 4000m Freestyle, Men,Swimming, HUN, Zoltan Halmay, 01:08:55.400
+Paris, 1900, 4000m Freestyle, Men, Swimming, FRA, Louis Martin, 01:13:08.400
+Paris,1900,4000m Freestyle,Men,Swimming,GBR,Jarvis,00:58:24.00
+Paris,1900,4000m Freestyle,Men,swimming,HUN,Halmay,01:08:55.40
+Paris,1900,4000m Freestyle,Men,swimming,FRA,Martin,01:13:08.40
+Paris,1900,4000m Freestyle,Men,swimming,FRA,Burgess,01:15:07.60
+Paris,1900,4000m Freestyle,Men,swimming,NED,Meijer,01:16:37.20
+Paris,1900,4000m Freestyle,Men,swimming,ITA,Maioni,01:18:25.40
+Paris,1900,4000m Freestyle,Men,swimming,FRA,Martin,01:26:32.20
+Paris,1900,200m Freestyle,Men,Swimming,GBR,Lane,00:02:25.20
+Paris,1900,200m Freestyle,Men,Swimming,HUN,Halmay,00:02:31.40
+Paris,1900,200m Freestyle,Men,Swimming,AUT,Ruberl,00:02:32.00
+Paris,1900,200m Freestyle,Men,Swimming,GBR,Crawshaw,00:02:45.60
+Paris,1900,200m Freestyle,Men,Swimming,FRA,Hochepied,00:02:53.00
+Paris,1900,200m Freestyle,Men,Swimming,GBR,Stapleton,00:02:55.00
+Paris,1900,200m Freestyle,Men,Swimming,FRA,Clevenot,00:02:56.20
+Paris,1900,200m Freestyle,Men,Swimming,GER,Frey,00:02:58.20
+
+
+St.Louis,1904,100m Backstroke,Men,Swimming,GER,Brack,00:01:16.80
+St.Louis,1904,100m Freestyle,Men,Swimming,HUN,Halmay,00:01:02.80
+St.Louis,1904,400m Breaststroke,Men,Swimming,GER,Zacharias,00:07:23.60
+St.Louis,1904,400m Freestyle,Men,Swimming,USA,Daniels,00:06:16.20
+St.Louis,1904,400m Freestyle,Men,Swimming,USA,Gailey,00:06:22.00
+St.Louis,1904,400m Freestyle,Men,Swimming,USA,Wahle,00:06:39.00
+
+
+
+London,1908,100m Backstroke,Men,Swimming,GER,Bieberstein,00:01:24.60
+London,1908,100m Backstroke,Men,Swimming,DEN,Ludwig Dam,00:01:26.60
+London,1908,100m Backstroke,Men,Swimming,GBR,Haresnape,00:01:27.00
+London,1908,100m Freestyle,Men,Swimming,USA,Daniels,00:01:05.60
+London,1908,100m Freestyle,Men,Swimming,HUN,Halmay,00:01:06.20
+London,1908,100m Freestyle,Men,Swimming,SWE,Julin,00:01:08.00
+London,1908,1500m Freestyle,Men,Swimming,GBR,Taylor,00:22:48.40
+London,1908,1500m Freestyle,Men,Swimming,GBR,Battersby,00:22:51.20
+London,1908,1500m Freestyle,Men,Swimming,AUS,De Beaurepaire,00:22:56.20
+London,1908,200m Breaststroke,Men,Swimming,GBR,Holman,00:03:09.20
+London,1908,200m Breaststroke,Men,Swimming,GBR,Robinson,00:03:12.80
+London,1908,200m Breaststroke,Men,Swimming,SWE,Hansson,00:03:14.60
+London,1908,200m Breaststroke,Men,Swimming,HUN,Toldi,00:03:15.20
+London,1908,400m Freestyle,Men,Swimming,GBR,Taylor,00:05:36.80
+London,1908,400m Freestyle,Men,Swimming,AUS,De Beaurepaire,00:05:46.00
+London,1908,400m Freestyle,Men,Swimming,AUT,Scheff,00:05:46.00
+London,1908,4x200 Freestyle Relay,Men,Swimming,GBR,,00:10:55.60
+London,1908,4x200 Freestyle Relay,Men,Swimming,HUN,,00:10:59.00
+London,1908,4x200 Freestyle Relay,Men,Swimming,USA,,00:11:02.80
+London,1908,4x200 Freestyle Relay,Men,Swimming,AUS,,00:11:14.00
+
+Stockholm,1912,100m Backstroke,Men,Swimming,USA,Hebner,00:01:21.20
+Stockholm,1912,100m Backstroke,Men,Swimming,GER,Fahr,00:01:22.40
+Stockholm,1912,100m Backstroke,Men,Swimming,GER,Kellner,00:01:24.00
+Stockholm,1912,100m Backstroke,Men,Swimming,HUN,Baronyi,00:01:25.20
+Stockholm,1912,100m Backstroke,Men,Swimming,GER,Gross,00:01:25.80
+Stockholm,1912,100m Freestyle,Men,Swimming,USA,Kahanamoku,00:01:03.40
+Stockholm,1912,100m Freestyle,Men,Swimming,AUS,Healy,00:01:04.60
+Stockholm,1912,100m Freestyle,Men,Swimming,USA,Huszagh,00:01:05.60
+Stockholm,1912,100m Freestyle,Men,Swimming,GER,Bretting,00:01:05.80
+Stockholm,1912,100m Freestyle,Men,Swimming,GER,Ramme,00:01:06.40
+Stockholm,1912,100m Freestyle,Women,Swimming,AUS,Durack,00:01:22.20
+Stockholm,1912,100m Freestyle,Women,Swimming,AUS,Wylie,00:01:25.40
+Stockholm,1912,100m Freestyle,Women,Swimming,GBR,Fletcher,00:01:27.00
+Stockholm,1912,100m Freestyle,Women,Swimming,GER,Rosenberg,00:01:27.20
+Stockholm,1912,100m Freestyle,Women,Swimming,GBR,Speirs,00:01:27.40
+Stockholm,1912,1500m Freestyle,Men,Swimming,CAN,Hodgson,00:22:00.00
+Stockholm,1912,1500m Freestyle,Men,Swimming,GBR,Hatfield,00:22:39.00
+Stockholm,1912,1500m Freestyle,Men,Swimming,AUS,Hardwick,00:23:15.40
+Stockholm,1912,200m Breaststroke,Men,Swimming,GER,Bathe,00:03:01.80
+Stockholm,1912,200m Breaststroke,Men,Swimming,GER,Lutzow,00:03:05.00
+Stockholm,1912,200m Breaststroke,Men,Swimming,GER,Malisch,00:03:08.00
+Stockholm,1912,400m Breaststroke,Men,Swimming,GER,Bathe,00:06:29.60
+Stockholm,1912,400m Breaststroke,Men,Swimming,SWE,Henning,00:06:35.60
+Stockholm,1912,400m Breaststroke,Men,Swimming,GBR,Courtman,00:06:36.40
+Stockholm,1912,400m Breaststroke,Men,Swimming,GER,Malisch,00:06:37.00
+Stockholm,1912,400m Freestyle,Men,Swimming,CAN,Hodgson,00:05:24.40
+Stockholm,1912,400m Freestyle,Men,Swimming,GBR,Hatfield,00:05:25.80
+Stockholm,1912,400m Freestyle,Men,Swimming,AUS,Hardwick,00:05:31.20
+Stockholm,1912,400m Freestyle,Men,Swimming,AUS,Healy,00:05:37.80
+Stockholm,1912,400m Freestyle,Men,Swimming,HUN,Las Torres,00:05:42.00
+Stockholm,1912,4x100 Freestyle Relay,Women,Swimming,GBR,,00:05:52.80
+Stockholm,1912,4x100 Freestyle Relay,Women,Swimming,GER,,00:06:04.60
+Stockholm,1912,4x100 Freestyle Relay,Women,Swimming,AUT,,00:06:17.00
+Stockholm,1912,4x200 Freestyle Relay,Men,Swimming,AUS,,00:10:11.20
+Stockholm,1912,4x200 Freestyle Relay,Men,Swimming,USA,,00:10:20.20
+Stockholm,1912,4x200 Freestyle Relay,Men,Swimming,GBR,,00:10:28.60
+Stockholm,1912,4x200 Freestyle Relay,Men,Swimming,GER,,00:10:37.00
+
+
+Antwerp,1920,100m Backstroke,Men,Swimming,USA,Paoa Kealoha,00:01:15.20
+Antwerp,1920,100m Backstroke,Men,Swimming,USA,Kegeris,00:01:16.80
+Antwerp,1920,100m Backstroke,Men,Swimming,BEL,Blitz,00:01:19.00
+Antwerp,1920,100m Backstroke,Men,Swimming,USA,Mcgillivray,00:01:19.40
+Antwerp,1920,100m Freestyle,Men,Swimming,USA,Paoa Kahanamoku,00:01:01.40
+Antwerp,1920,100m Freestyle,Men,Swimming,USA,Kealoha,00:01:02.60
+Antwerp,1920,100m Freestyle,Men,Swimming,USA,Harris,00:01:03.00
+Antwerp,1920,100m Freestyle,Men,Swimming,AUS,Herald,00:01:03.80
+Antwerp,1920,100m Freestyle,Women,Swimming,USA,Bleibtrey,00:01:13.60
+Antwerp,1920,100m Freestyle,Women,Swimming,USA,Guest,00:01:17.00
+Antwerp,1920,100m Freestyle,Women,Swimming,USA,Schroth,00:01:17.20
+Antwerp,1920,100m Freestyle,Women,Swimming,GBR,Mabel Jeans,00:01:22.80
+Antwerp,1920,1500m Freestyle,Men,Swimming,USA,Ross,00:22:23.20
+Antwerp,1920,200m Breaststroke,Men,Swimming,SWE,Malmrot,00:03:04.40
+Antwerp,1920,200m Breaststroke,Men,Swimming,SWE,Henning,00:03:09.20
+Antwerp,1920,200m Breaststroke,Men,Swimming,FIN,Aaltonen,00:03:12.20
+Antwerp,1920,400m Breaststroke,Men,Swimming,SWE,Malmot,00:06:31.80
+Antwerp,1920,400m Breaststroke,Men,Swimming,SWE,Henning,00:06:45.20
+Antwerp,1920,400m Breaststroke,Men,Swimming,FIN,Aaltonen,00:06:48.00
+Antwerp,1920,400m Breaststroke,Men,Swimming,USA,Howell,00:06:51.00
+Antwerp,1920,400m Freestyle,Men,Swimming,USA,Ross,00:05:26.80
+Antwerp,1920,400m Freestyle,Men,Swimming,USA,Langer,00:05:29.00
+Antwerp,1920,400m Freestyle,Men,Swimming,CAN,Vernot,00:05:29.60
+Antwerp,1920,4x100 Freestyle Relay,Women,Swimming,USA,,00:05:11.60
+Antwerp,1920,4x100 Freestyle Relay,Women,Swimming,GBR,,00:05:40.80
+Antwerp,1920,4x100 Freestyle Relay,Women,Swimming,SWE,,00:05:43.60
+Antwerp,1920,4x200 Freestyle Relay,Men,Swimming,USA,,00:10:04.40
+Antwerp,1920,4x200 Freestyle Relay,Men,Swimming,AUS,,00:10:25.40
+Antwerp,1920,4x200 Freestyle Relay,Men,Swimming,GBR,,00:10:37.20
+Antwerp,1920,4x200 Freestyle Relay,Men,Swimming,SWE,,00:10:50.20
+
+Paris,1924,100m Backstroke,Men,Swimming,USA,Paoa Kealoha,00:01:13.20
+Paris,1924,100m Backstroke,Men,Swimming,USA,Wyatt,00:01:15.40
+Paris,1924,100m Backstroke,Men,Swimming,HUN,Bartha,00:01:17.80
+Paris,1924,100m Backstroke,Men,Swimming,GBR,Rawlinson,00:01:20.00
+Paris,1924,100m Backstroke,Men,Swimming,BEL,Blitz,00:01:19.60
+Paris,1924,100m Backstroke,Women,Swimming,USA,Bauer,00:01:23.20
+Paris,1924,100m Backstroke,Women,Swimming,GBR,Harding,00:01:27.40
+Paris,1924,100m Backstroke,Women,Swimming,USA,Riggin,00:01:28.20
+Paris,1924,100m Backstroke,Women,Swimming,USA,Chambers,00:01:30.80
+Paris,1924,100m Backstroke,Women,Swimming,TCH,Mullerova,00:01:31.20
+Paris,1924,100m Freestyle,Men,Swimming,USA,Weissmuller,00:000:59.00
+Paris,1924,100m Freestyle,Men,Swimming,USA,Paoa Kahanamoku,00:01:01.40
+Paris,1924,100m Freestyle,Men,Swimming,USA,Sam Kahanamoku,00:01:01.80
+Paris,1924,100m Freestyle,Men,Swimming,SWE,Borg,00:01:02.00
+Paris,1924,100m Freestyle,Men,Swimming,JPN,Takaishi,00:01:03.00
+Paris,1924,100m Freestyle,Women,Swimming,USA,Lackie,00:01:12.40
+Paris,1924,100m Freestyle,Women,Swimming,USA,Wehselau,00:01:12.80
+Paris,1924,100m Freestyle,Women,Swimming,USA,Ederle,00:01:14.20
+Paris,1924,100m Freestyle,Women,Swimming,GBR,Mabel Jeans,00:01:15.40
+Paris,1924,100m Freestyle,Women,Swimming,GBR,Tanner,00:01:20.80
+Paris,1924,1500m Freestyle,Men,Swimming,AUS,Charlton,00:20:06.60
+Paris,1924,1500m Freestyle,Men,Swimming,SWE,Borg,00:20:41.40
+Paris,1924,1500m Freestyle,Men,Swimming,AUS,De Beaurepaire,00:21:48.40
+Paris,1924,1500m Freestyle,Men,Swimming,JPN,Takaishi,00:22:10.40
+Paris,1924,200m Breaststroke,Men,Swimming,USA,Skelton,00:02:56.60
+Paris,1924,200m Breaststroke,Men,Swimming,BEL,De Combe,00:02:59.20
+Paris,1924,200m Breaststroke,Men,Swimming,USA,Kirschbaum,00:03:01.00
+Paris,1924,200m Breaststroke,Men,Swimming,SWE,Linders,00:03:02.20
+Paris,1924,200m Breaststroke,Men,Swimming,SUI,Wyss,00:03:05.60
+Paris,1924,200m Breaststroke,Women,Swimming,GBR,Morton,00:03:33.20
+Paris,1924,200m Breaststroke,Women,Swimming,USA,Geraghty,00:03:34.00
+Paris,1924,200m Breaststroke,Women,Swimming,GBR,Carson,00:03:35.40
+Paris,1924,200m Breaststroke,Women,Swimming,SWE,Pettersson,00:03:37.60
+Paris,1924,200m Breaststroke,Women,Swimming,GBR,Gilbert,00:03:38.00
+Paris,1924,200m Breaststroke,Women,Swimming,LUX,Koster,00:03:39.20
+Paris,1924,200m Breaststroke,Women,Swimming,SWE,Topel,00:03:47.60
+Paris,1924,400m Freestyle,Men,Swimming,USA,Weissmuller,00:05:04.20
+Paris,1924,400m Freestyle,Men,Swimming,SWE,Arne Borg,00:05:05.60
+Paris,1924,400m Freestyle,Men,Swimming,AUS,Charlton,00:05:06.60
+Paris,1924,400m Freestyle,Men,Swimming,SWE,Ake Borg,00:05:26.00
+Paris,1924,400m Freestyle,Men,Swimming,GBR,Hatfield,00:05:32.00
+Paris,1924,400m Freestyle,Women,Swimming,USA,Norelius,00:06:02.20
+Paris,1924,400m Freestyle,Women,Swimming,USA,Wainwright,00:06:03.80
+Paris,1924,400m Freestyle,Women,Swimming,USA,Ederle,00:06:04.80
+Paris,1924,400m Freestyle,Women,Swimming,GBR,Molesworth,00:06:25.40
+Paris,1924,4x100 Freestyle Relay,Women,Swimming,USA,,00:04:58.80
+Paris,1924,4x100 Freestyle Relay,Women,Swimming,GBR,,00:05:17.00
+Paris,1924,4x100 Freestyle Relay,Women,Swimming,SWE,,00:05:35.60
+Paris,1924,4x100 Freestyle Relay,Women,Swimming,DEN,,00:05:42.40
+Paris,1924,4x100 Freestyle Relay,Women,Swimming,FRA,,00:05:43.40
+Paris,1924,4x100 Freestyle Relay,Women,Swimming,NED,,00:05:45.80
+Paris,1924,4x200 Freestyle Relay,Men,Swimming,USA,,00:09:53.40
+
+
+Amsterdam,1928,100m Backstroke,Men,Swimming,USA,Kojac,00:01:08.20
+Amsterdam,1928,100m Backstroke,Men,Swimming,USA,Laufer,00:01:10.00
+Amsterdam,1928,100m Backstroke,Men,Swimming,USA,Wyatt,00:01:12.00
+Amsterdam,1928,100m Backstroke,Men,Swimming,JPN,Toshio,00:01:13.60
+Amsterdam,1928,100m Backstroke,Men,Swimming,GER,Kuppers,00:01:13.80
+Amsterdam,1928,100m Backstroke,Men,Swimming,GBR,Besford,00:01:15.40
+Amsterdam,1928,100m Backstroke,Women,Swimming,NED,Philipsen-Braun,00:01:22.00
+Amsterdam,1928,100m Backstroke,Women,Swimming,GBR,King,00:01:22.20
+Amsterdam,1928,100m Backstroke,Women,Swimming,GBR,Cooper,00:01:22.80
+Amsterdam,1928,100m Backstroke,Women,Swimming,USA,Gilman,00:01:24.40
+Amsterdam,1928,100m Backstroke,Women,Swimming,USA,Holm,00:01:24.40
+Amsterdam,1928,100m Backstroke,Women,Swimming,USA,Lindstrom,00:01:24.40
+Amsterdam,1928,100m Backstroke,Women,Swimming,NZL,Stockley,00:01:25.80
+Amsterdam,1928,100m Freestyle,Men,Swimming,USA,Weissmuller,00:000:58.60
+Amsterdam,1928,100m Freestyle,Men,Swimming,HUN,Barany,00:00:59.80
+Amsterdam,1928,100m Freestyle,Men,Swimming,JPN,Takaishi,00:01:00.00
+Amsterdam,1928,100m Freestyle,Men,Swimming,USA,Kojac,00:01:00.80
+Amsterdam,1928,100m Freestyle,Men,Swimming,USA,Laufer,00:01:01.00
+Amsterdam,1928,100m Freestyle,Men,Swimming,CAN,Spence,00:01:01.40
+Amsterdam,1928,100m Freestyle,Men,Swimming,ARG,Zorrilla,00:01:01.60
+Amsterdam,1928,100m Freestyle,Women,Swimming,USA,Osipowich,00:01:11.00
+Amsterdam,1928,100m Freestyle,Women,Swimming,USA,Saville,00:01:11.40
+Amsterdam,1928,100m Freestyle,Women,Swimming,GBR,Cooper,00:01:13.60
+Amsterdam,1928,100m Freestyle,Women,Swimming,USA,Mcdowall,00:01:13.80
+Amsterdam,1928,100m Freestyle,Women,Swimming,USA,Laird,00:01:14.60
+Amsterdam,1928,100m Freestyle,Women,Swimming,GER,Lehmann,00:01:15.20
+Amsterdam,1928,1500m Freestyle,Men,Swimming,SWE,Arne Borg,00:019:51.80
+Amsterdam,1928,1500m Freestyle,Men,Swimming,AUS,Charlton,00:020:02.60
+Amsterdam,1928,1500m Freestyle,Men,Swimming,USA,Crabbe,00:020:28.80
+Amsterdam,1928,1500m Freestyle,Men,Swimming,USA,Ruddy,00:021:05.00
+Amsterdam,1928,1500m Freestyle,Men,Swimming,ARG,Zorrilla,00:021:23.80
+Amsterdam,1928,1500m Freestyle,Men,Swimming,CAN,Ault,00:021:46.00
+Amsterdam,1928,200m Breaststroke,Men,Swimming,JPN,Yoshiyuki Tsuruta,00:02:48.80
+Amsterdam,1928,200m Breaststroke,Men,Swimming,GER,Rademacher,00:02:50.60
+Amsterdam,1928,200m Breaststroke,Men,Swimming,PHI,TEOFILO YLDEFONSO,00:02:56.40
+Amsterdam,1928,200m Breaststroke,Men,Swimming,GER,Sietas,00:02:56.60
+Amsterdam,1928,200m Breaststroke,Men,Swimming,SWE,Harling,00:02:56.80
+Amsterdam,1928,200m Breaststroke,Men,Swimming,CAN,Spence,00:02:57.20
+Amsterdam,1928,200m Breaststroke,Women,Swimming,GER,Schrader,00:03:12.60
+Amsterdam,1928,200m Breaststroke,Women,Swimming,NED,Baron,00:03:15.20
+Amsterdam,1928,200m Breaststroke,Women,Swimming,GER,Mühe,00:03:17.60
+Amsterdam,1928,200m Breaststroke,Women,Swimming,DEN,Jacobsen,00:03:19.00
+Amsterdam,1928,200m Breaststroke,Women,Swimming,USA,Hoffman,00:03:19.20
+Amsterdam,1928,200m Breaststroke,Women,Swimming,SWE,Hazelius,00:03:23.00
+Amsterdam,1928,400m Freestyle,Men,Swimming,ARG,Zorrilla,00:05:01.60
+Amsterdam,1928,400m Freestyle,Men,Swimming,AUS,Charlton,00:05:03.60
+Amsterdam,1928,400m Freestyle,Men,Swimming,SWE,Arne Borg,00:05:04.60
+Amsterdam,1928,400m Freestyle,Men,Swimming,USA,Crabbe,00:05:05.40
+Amsterdam,1928,400m Freestyle,Men,Swimming,USA,Clapp,00:05:16.00
+Amsterdam,1928,400m Freestyle,Men,Swimming,USA,Ruddy,00:05:25.00
+Amsterdam,1928,400m Freestyle,Women,Swimming,USA,Norelius,00:05:42.80
+Amsterdam,1928,400m Freestyle,Women,Swimming,NED,Philipsen-Braun,00:05:57.80
+Amsterdam,1928,400m Freestyle,Women,Swimming,USA,Mckim,00:06:00.20
+Amsterdam,1928,400m Freestyle,Women,Swimming,GBR,Stewart,00:06:07.00
+Amsterdam,1928,400m Freestyle,Women,Swimming,RSA,Van Der Goes,00:06:07.20
+Amsterdam,1928,400m Freestyle,Women,Swimming,GBR,Tanner,00:06:11.60
+Amsterdam,1928,4x100 Freestyle Relay,Women,Swimming,USA,,00:04:47.60
+Amsterdam,1928,4x100 Freestyle Relay,Women,Swimming,GBR,,00:05:02.80
+Amsterdam,1928,4x100 Freestyle Relay,Women,Swimming,RSA,,00:05:13.40
+Amsterdam,1928,4x100 Freestyle Relay,Women,Swimming,GER,,00:05:14.40
+Amsterdam,1928,4x100 Freestyle Relay,Women,Swimming,FRA,,00:05:32.00
+Amsterdam,1928,4x200 Freestyle Relay,Men,Swimming,USA,,00:09:36.20
+
+
+Los Angeles,1932,100m Backstroke,Men,Swimming,JPN,Kiyokawa,00:01:08.60
+Los Angeles,1932,100m Backstroke,Men,Swimming,JPN,Toshio,00:01:09.80
+Los Angeles,1932,100m Backstroke,Men,Swimming,JPN,Kawatsu,00:01:10.00
+Los Angeles,1932,100m Backstroke,Men,Swimming,USA,Zehr,00:01:10.00
+Los Angeles,1932,100m Backstroke,Men,Swimming,GER,Kuppers,00:01:11.30
+Los Angeles,1932,100m Backstroke,Men,Swimming,USA,Kerber,00:01:12.80
+Los Angeles,1932,100m Backstroke,Women,Swimming,USA,Holm,00:01:19.40
+Los Angeles,1932,100m Backstroke,Women,Swimming,AUS,Mealing,00:01:21.30
+Los Angeles,1932,100m Backstroke,Women,Swimming,GBR,Davies,00:01:22.50
+Los Angeles,1932,100m Backstroke,Women,Swimming,GBR,Harding,00:01:22.60
+Los Angeles,1932,100m Backstroke,Women,Swimming,USA,Mcsheehy,00:01:23.20
+Los Angeles,1932,100m Backstroke,Women,Swimming,GBR,Cooper,00:01:23.40
+Los Angeles,1932,100m Freestyle,Men,Swimming,JPN,Mioyazaki,00:00:58.20
+Los Angeles,1932,100m Freestyle,Men,Swimming,JPN,Kawaishi,00:00:58.60
+Los Angeles,1932,100m Freestyle,Men,Swimming,USA,Schwartz,00:00:58.80
+Los Angeles,1932,100m Freestyle,Men,Swimming,USA,Kalili,00:00:59.20
+Los Angeles,1932,100m Freestyle,Men,Swimming,JPN,Takahashi,00:00:59.20
+Los Angeles,1932,100m Freestyle,Men,Swimming,USA,Thompson,00:00:59.50
+Los Angeles,1932,100m Freestyle,Women,Swimming,USA,Madison,00:01:06.80
+Los Angeles,1932,100m Freestyle,Women,Swimming,NED,Den Ouden,00:01:07.80
+Los Angeles,1932,100m Freestyle,Women,Swimming,USA,Saville,00:01:08.20
+Los Angeles,1932,100m Freestyle,Women,Swimming,USA,Mckim,00:01:09.30
+Los Angeles,1932,100m Freestyle,Women,Swimming,AUS,Bult,00:01:09.90
+Los Angeles,1932,100m Freestyle,Women,Swimming,RSA,1,00:01:10.80
+Los Angeles,1932,1500m Freestyle,Men,Swimming,JPN,Kitamura,00:19:12.40
+Los Angeles,1932,1500m Freestyle,Men,Swimming,JPN,Makino,00:19:14.10
+Los Angeles,1932,1500m Freestyle,Men,Swimming,USA,Cristy,00:19:39.50
+Los Angeles,1932,1500m Freestyle,Men,Swimming,AUS,Ryan,00:19:45.10
+Los Angeles,1932,1500m Freestyle,Men,Swimming,USA,Crabbe,00:20:02.70
+Los Angeles,1932,1500m Freestyle,Men,Swimming,FRA,Taris,00:20:09.70
+Los Angeles,1932,200m Breaststroke,Men,Swimming,JPN,Yoshiyuki Tsuruta,00:02:45.40
+Los Angeles,1932,200m Breaststroke,Men,Swimming,JPN,Reizo Koike,00:02:46.60
+Los Angeles,1932,200m Breaststroke,Men,Swimming,PHI,Yldefonso,00:02:47.10
+Los Angeles,1932,200m Breaststroke,Men,Swimming,GER,Sietas,00:02:48.00
+Los Angeles,1932,200m Breaststroke,Men,Swimming,PHI,Adjaluddin,00:02:49.20
+Los Angeles,1932,200m Breaststroke,Men,Swimming,JPN,Shigeo Nakagawa,00:02:52.80
+Los Angeles,1932,200m Breaststroke,Women,Swimming,AUS,Dennis,00:03:06.30
+Los Angeles,1932,200m Breaststroke,Women,Swimming,JPN,Hideko Maehata,00:03:06.40
+Los Angeles,1932,200m Breaststroke,Women,Swimming,DEN,Jacobsen,00:03:07.10
+Los Angeles,1932,200m Breaststroke,Women,Swimming,GBR,Hinton,00:03:11.70
+Los Angeles,1932,200m Breaststroke,Women,Swimming,USA,Hoffman,00:03:11.80
+Los Angeles,1932,200m Breaststroke,Women,Swimming,USA,Govednik,00:03:16.00
+Los Angeles,1932,200m Breaststroke,Women,Swimming,USA,Cadwell,00:03:18.20
+Los Angeles,1932,400m Freestyle,Men,Swimming,USA,Crabbe,00:04:48.40
+Los Angeles,1932,400m Freestyle,Men,Swimming,FRA,Taris,00:04:48.50
+Los Angeles,1932,400m Freestyle,Men,Swimming,JPN,Tsutomi Oyokota,00:04:52.30
+Los Angeles,1932,400m Freestyle,Men,Swimming,JPN,Takashi Yokoyama,00:04:52.50
+Los Angeles,1932,400m Freestyle,Men,Swimming,JPN,Noboru Sugimoto,00:04:56.10
+Los Angeles,1932,400m Freestyle,Men,Swimming,AUS,Charlton,00:04:58.60
+Los Angeles,1932,400m Freestyle,Women,Swimming,USA,Madison,00:05:28.50
+Los Angeles,1932,400m Freestyle,Women,Swimming,USA,Kight-Wingard,00:05:28.60
+Los Angeles,1932,400m Freestyle,Women,Swimming,RSA,Maakal,00:05:47.30
+Los Angeles,1932,400m Freestyle,Women,Swimming,GBR,Cooper,00:05:49.70
+Los Angeles,1932,400m Freestyle,Women,Swimming,FRA,Godard,00:05:54.40
+Los Angeles,1932,400m Freestyle,Women,Swimming,USA,Forbes,00:06:06.00
+Los Angeles,1932,4x100 Freestyle Relay,Women,Swimming,USA,,00:04:38.00
+Los Angeles,1932,4x100 Freestyle Relay,Women,Swimming,NED,,00:04:47.50
+Los Angeles,1932,4x100 Freestyle Relay,Women,Swimming,GBR,,00:04:52.40
+Los Angeles,1932,4x100 Freestyle Relay,Women,Swimming,CAN,,00:05:05.70
+Los Angeles,1932,4x100 Freestyle Relay,Women,Swimming,JPN,,00:05:06.70
+Los Angeles,1932,4x200 Freestyle Relay,Men,Swimming,JPN,,00:08:58.40
+Los Angeles,1932,4x200 Freestyle Relay,Men,Swimming,USA,,00:09:10.50
+Los Angeles,1932,4x200 Freestyle Relay,Men,Swimming,HUN,,00:09:31.40
+Los Angeles,1932,4x200 Freestyle Relay,Men,Swimming,CAN,,00:09:36.30
+Los Angeles,1932,4x200 Freestyle Relay,Men,Swimming,GBR,,00:09:45.80
+Los Angeles,1932,4x200 Freestyle Relay,Men,Swimming,ARG,,00:10:13.10
+Los Angeles,1932,4x200 Freestyle Relay,Men,Swimming,BRA,,00:10:36.50
+
+
+Berlin,1936,100m Backstroke,Men,Swimming,USA,Kiefer,00:01:05.90
+Berlin,1936,100m Backstroke,Men,Swimming,USA,Weghe,00:01:07.70
+Berlin,1936,100m Backstroke,Men,Swimming,JPN,Masaji Kiyokawa,00:01:08.40
+Berlin,1936,100m Backstroke,Men,Swimming,USA,Drysdale,00:01:09.40
+Berlin,1936,100m Backstroke,Men,Swimming,JPN,Kiichi Yoshida,00:01:09.70
+Berlin,1936,100m Backstroke,Men,Swimming,JPN,Yashuhiko Kojima,00:01:10.40
+Berlin,1936,100m Backstroke,Men,Swimming,AUS,Oliver,00:01:10.70
+Berlin,1936,100m Backstroke,Women,Swimming,NED,Senff,00:01:18.90
+Berlin,1936,100m Backstroke,Women,Swimming,NED,Mastenbroek,00:01:19.20
+Berlin,1936,100m Backstroke,Women,Swimming,USA,Bridges,00:01:19.40
+Berlin,1936,100m Backstroke,Women,Swimming,USA,Motridge,00:01:19.60
+Berlin,1936,100m Backstroke,Women,Swimming,DEN,Madsen,00:01:20.40
+Berlin,1936,100m Backstroke,Women,Swimming,GBR,Frampton,00:01:20.60
+Berlin,1936,100m Backstroke,Women,Swimming,GBR,Harding,00:01:21.50
+Berlin,1936,100m Freestyle,Men,Swimming,HUN,Csik,00:00:57.60
+Berlin,1936,100m Freestyle,Men,Swimming,JPN,Masanori Yusa,00:00:57.90
+Berlin,1936,100m Freestyle,Men,Swimming,JPN,Shigeo Arai,00:00:58.00
+Berlin,1936,100m Freestyle,Men,Swimming,JPN,Masaharu Taguchi,00:00:58.10
+Berlin,1936,100m Freestyle,Men,Swimming,GER,Fischer,00:00:59.30
+Berlin,1936,100m Freestyle,Men,Swimming,USA,Fick,00:00:59.70
+Berlin,1936,100m Freestyle,Men,Swimming,USA,Lindegren,00:00:59.90
+Berlin,1936,100m Freestyle,Women,Swimming,NED,Mastenbroek,00:01:05.90
+Berlin,1936,100m Freestyle,Women,Swimming,ARG,Campbell,00:01:06.40
+Berlin,1936,100m Freestyle,Women,Swimming,GER,Arendt-Jacobs,00:01:06.60
+Berlin,1936,100m Freestyle,Women,Swimming,NED,Den Ouden,00:01:07.60
+Berlin,1936,100m Freestyle,Women,Swimming,NED,Wagner,00:01:08.10
+Berlin,1936,100m Freestyle,Women,Swimming,USA,Mckean,00:01:08.40
+Berlin,1936,100m Freestyle,Women,Swimming,USA,Rawls,00:01:08.70
+Berlin,1936,1500m Freestyle,Men,Swimming,JPN,Noboru Terada,00:19:13.70
+Berlin,1936,1500m Freestyle,Men,Swimming,USA,Medica,00:19:34.00
+Berlin,1936,1500m Freestyle,Men,Swimming,JPN,Shunpei Uto,00:19:34.50
+Berlin,1936,1500m Freestyle,Men,Swimming,JPN,Sunao Ishiharada,00:19:48.50
+Berlin,1936,1500m Freestyle,Men,Swimming,USA,Flanagan,00:19:54.80
+Berlin,1936,1500m Freestyle,Men,Swimming,GBR,Leivers,00:19:57.40
+Berlin,1936,1500m Freestyle,Men,Swimming,GER,Arendt,00:19:59.00
+Berlin,1936,200m Breaststroke,Men,Swimming,JPN,Tetsuo Hamuro,00:02:42.50
+Berlin,1936,200m Breaststroke,Men,Swimming,GER,Sietas,00:02:42.90
+Berlin,1936,200m Breaststroke,Men,Swimming,JPN,Reizo Koike,00:02:44.20
+Berlin,1936,200m Breaststroke,Men,Swimming,USA,Higgins,00:02:45.20
+Berlin,1936,200m Breaststroke,Men,Swimming,JPN,Saburo Ito,00:02:47.60
+Berlin,1936,200m Breaststroke,Men,Swimming,GER,Balke,00:02:47.80
+Berlin,1936,200m Breaststroke,Men,Swimming,PHI,Yldefonso,00:02:51.10
+Berlin,1936,200m Breaststroke,Women,Swimming,JPN,Hideko Maehata,00:03:03.60
+Berlin,1936,200m Breaststroke,Women,Swimming,GER,Genenger,00:03:04.20
+Berlin,1936,200m Breaststroke,Women,Swimming,DEN,Sörensen,00:03:07.80
+Berlin,1936,200m Breaststroke,Women,Swimming,GER,Hölzner,00:03:09.50
+Berlin,1936,200m Breaststroke,Women,Swimming,NED,Waalberg,00:03:09.50
+Berlin,1936,200m Breaststroke,Women,Swimming,GBR,Storey,00:03:09.70
+Berlin,1936,200m Breaststroke,Women,Swimming,NED,Kastein,00:03:12.80
+Berlin,1936,400m Freestyle,Men,Swimming,USA,Medica,00:04:44.50
+Berlin,1936,400m Freestyle,Men,Swimming,JPN,Shunpei Uto,00:04:45.60
+Berlin,1936,400m Freestyle,Men,Swimming,JPN,Shozo Makino,00:04:48.10
+Berlin,1936,400m Freestyle,Men,Swimming,USA,Flanagan,00:04:52.70
+Berlin,1936,400m Freestyle,Men,Swimming,JPN,Hiroshi Negami,00:04:53.60
+Berlin,1936,400m Freestyle,Men,Swimming,FRA,Taris,00:04:53.80
+Berlin,1936,400m Freestyle,Men,Swimming,GBR,Leivers,00:05:09.90
+Berlin,1936,400m Freestyle,Women,Swimming,NED,Mastenbroek,00:05:26.40
+Berlin,1936,400m Freestyle,Women,Swimming,DEN,Hveger,00:05:27.50
+Berlin,1936,400m Freestyle,Women,Swimming,USA,Kight-Wingard,00:05:29.00
+Berlin,1936,400m Freestyle,Women,Swimming,USA,Petty,00:05:32.20
+Berlin,1936,400m Freestyle,Women,Swimming,BRA,Coutinho,00:05:35.20
+Berlin,1936,400m Freestyle,Women,Swimming,JPN,Kazue Kojima,00:05:43.100
+Berlin,1936,400m Freestyle,Women,Swimming,DEN,Frederiksen,00:05:45.00
+Berlin,1936,400m Freestyle,Women,Swimming,NED,Wagner,00:05:46.00
+Berlin,1936,4x100 Freestyle Relay,Women,Swimming,NED,,00:04:36.00
+Berlin,1936,4x100 Freestyle Relay,Women,Swimming,GER,,00:04:36.80
+Berlin,1936,4x100 Freestyle Relay,Women,Swimming,USA,,00:04:40.20
+Berlin,1936,4x100 Freestyle Relay,Women,Swimming,CAN,,00:04:48.00
+Berlin,1936,4x100 Freestyle Relay,Women,Swimming,HUN,,00:04:48.00
+Berlin,1936,4x100 Freestyle Relay,Women,Swimming,GBR,,00:04:51.00
+Berlin,1936,4x100 Freestyle Relay,Women,Swimming,DEN,,00:04:51.40
+Berlin,1936,4x200 Freestyle Relay,Men,Swimming,JPN,,00:08:51.50
+Berlin,1936,4x200 Freestyle Relay,Men,Swimming,USA,,00:09:03.00
+Berlin,1936,4x200 Freestyle Relay,Men,Swimming,HUN,,00:09:12.30
+Berlin,1936,4x200 Freestyle Relay,Men,Swimming,FRA,,00:09:18.20
+Berlin,1936,4x200 Freestyle Relay,Men,Swimming,GER,,00:09:19.00
+Berlin,1936,4x200 Freestyle Relay,Men,Swimming,GBR,,00:09:21.50
+Berlin,1936,4x200 Freestyle Relay,Men,Swimming,CAN,,00:09:27.50
+Berlin,1936,4x200 Freestyle Relay,Men,Swimming,SWE,,00:09:37.50
+
+
+London,1948,100m Backstroke,Men,Swimming,USA,Stack,00:01:06.40
+London,1948,100m Backstroke,Men,Swimming,USA,Cowell,00:01:06.50
+London,1948,100m Backstroke,Men,Swimming,FRA,Vallerey Jr,00:01:07.80
+London,1948,100m Backstroke,Men,Swimming,ARG,Chavez,00:01:09.00
+London,1948,100m Backstroke,Men,Swimming,MEX,Avila,00:01:09.00
+London,1948,100m Backstroke,Men,Swimming,RSA,Wiid,00:01:09.10
+London,1948,100m Backstroke,Men,Swimming,GBR,Brockway,00:01:09.20
+London,1948,100m Backstroke,Men,Swimming,GBR,Kinnear,00:01:09.60
+London,1948,100m Backstroke,Women,Swimming,DEN,Harup,00:01:14.40
+London,1948,100m Backstroke,Women,Swimming,USA,Zimmerman,00:01:16.00
+London,1948,100m Backstroke,Women,Swimming,AUS,Davies,00:01:16.70
+London,1948,100m Backstroke,Women,Swimming,HUN,Novak,00:01:18.40
+London,1948,100m Backstroke,Women,Swimming,NED,Van Der Horst,00:01:18.80
+London,1948,100m Backstroke,Women,Swimming,NED,Van Ekris,00:01:18.90
+London,1948,100m Backstroke,Women,Swimming,USA,Mellon,00:01:19.00
+London,1948,100m Backstroke,Women,Swimming,NED,Gaillard,00:01:19.10
+London,1948,100m Freestyle,Men,Swimming,USA,Ris,00:00:57.30
+London,1948,100m Freestyle,Men,Swimming,USA,Ford,00:00:57.80
+London,1948,100m Freestyle,Men,Swimming,HUN,Kadas,00:00:58.10
+London,1948,100m Freestyle,Men,Swimming,USA,Carter,00:00:58.30
+London,1948,100m Freestyle,Men,Swimming,FRA,Jany,00:00:58.30
+London,1948,100m Freestyle,Men,Swimming,SWE,Olsson,00:00:59.30
+London,1948,100m Freestyle,Men,Swimming,HUN,Szilard,00:00:59.60
+London,1948,100m Freestyle,Men,Swimming,EGY,El Gamal,00:01:00.50
+London,1948,100m Freestyle,Women,Swimming,DEN,Andersen,00:01:06.30
+London,1948,100m Freestyle,Women,Swimming,USA,Curtis,00:01:06.50
+London,1948,100m Freestyle,Women,Swimming,NED,Linssen-Vaessen,00:01:07.60
+London,1948,100m Freestyle,Women,Swimming,DEN,Harup,00:01:08.10
+London,1948,100m Freestyle,Women,Swimming,SWE,Fredin,00:01:08.40
+London,1948,100m Freestyle,Women,Swimming,NED,Heijting-Schuhmacher,00:01:08.40
+London,1948,100m Freestyle,Women,Swimming,SWE,Ahlgren,00:01:08.80
+London,1948,100m Freestyle,Women,Swimming,DEN,Carstensen,00:01:09.10
+London,1948,1500m Freestyle,Men,Swimming,USA,Mclane,00:19:18.50
+London,1948,1500m Freestyle,Men,Swimming,AUS,Marshall,00:19:31.30
+London,1948,1500m Freestyle,Men,Swimming,HUN,Mitro,00:19:43.20
+London,1948,1500m Freestyle,Men,Swimming,HUN,Csordas,00:19:54.20
+London,1948,1500m Freestyle,Men,Swimming,YUG,Stipetic,00:20:10.70
+London,1948,1500m Freestyle,Men,Swimming,USA,Norris,00:20:18.80
+London,1948,1500m Freestyle,Men,Swimming,GBR,Bland,00:20:19.80
+London,1948,1500m Freestyle,Men,Swimming,USA,Heusner,00:20:45.40
+London,1948,200m Breaststroke,Men,Swimming,USA,Verdeur,00:02:39.30
+London,1948,200m Breaststroke,Men,Swimming,USA,Carter,00:02:40.20
+London,1948,200m Breaststroke,Men,Swimming,USA,Sohl,00:02:43.90
+London,1948,200m Breaststroke,Men,Swimming,AUS,Davies,00:02:43.70
+London,1948,200m Breaststroke,Men,Swimming,YUG,Cerer,00:02:46.10
+London,1948,200m Breaststroke,Men,Swimming,BRA,Jordan,00:02:46.40
+London,1948,200m Breaststroke,Men,Swimming,EGY,Kandil,00:02:47.50
+London,1948,200m Breaststroke,Men,Swimming,NED,Bonte,00:02:47.60
+London,1948,200m Breaststroke,Women,Swimming,NED,Van Vliet,00:02:57.20
+London,1948,200m Breaststroke,Women,Swimming,AUS,Lyons,00:02:57.70
+London,1948,200m Breaststroke,Women,Swimming,HUN,Novak-Gerard,00:03:00.20
+London,1948,200m Breaststroke,Women,Swimming,HUN,Szekely,00:03:02.50
+London,1948,200m Breaststroke,Women,Swimming,NED,De Groot,00:03:06.20
+London,1948,200m Breaststroke,Women,Swimming,GBR,Church,00:03:06.10
+London,1948,200m Breaststroke,Women,Swimming,NED,Hom,00:03:07.50
+London,1948,200m Breaststroke,Women,Swimming,DEN,Hansen,00:03:08.10
+London,1948,400m Freestyle,Men,Swimming,USA,Smith,00:04:41.00
+London,1948,400m Freestyle,Men,Swimming,AUS,Marshall,00:04:47.40
+London,1948,400m Freestyle,Men,Swimming,HUN,Kadas,00:04:49.40
+London,1948,400m Freestyle,Men,Swimming,HUN,Mitro,00:04:49.90
+London,1948,400m Freestyle,Men,Swimming,FRA,Jany,00:04:51.40
+London,1948,400m Freestyle,Men,Swimming,GBR,Hale,00:04:55.90
+London,1948,400m Freestyle,Men,Swimming,ARG,Yantorno,00:04:58.70
+London,1948,400m Freestyle,Women,Swimming,USA,Curtis,00:05:17.80
+London,1948,400m Freestyle,Women,Swimming,DEN,Harup,00:05:21.20
+London,1948,400m Freestyle,Women,Swimming,GBR,Gibson,00:05:22.50
+London,1948,400m Freestyle,Women,Swimming,BEL,Caroen,00:05:25.30
+London,1948,400m Freestyle,Women,Swimming,USA,Helser,00:05:26.00
+London,1948,400m Freestyle,Women,Swimming,BRA,Coutinho,00:05:29.40
+London,1948,400m Freestyle,Women,Swimming,DEN,Carstensen,00:05:29.40
+London,1948,400m Freestyle,Women,Swimming,USA,Lees,00:05:32.90
+London,1948,4x100 Freestyle Relay,Men,Swimming,USA,,00:04:29.20
+London,1948,4x100 Freestyle Relay,Men,Swimming,DEN,,00:04:29.60
+London,1948,4x100 Freestyle Relay,Men,Swimming,GBR,,00:04:34.70
+London,1948,4x100 Freestyle Relay,Men,Swimming,HUN,,00:04:44.80
+London,1948,4x100 Freestyle Relay,Men,Swimming,BRA,,00:04:49.10
+London,1948,4x100 Freestyle Relay,Men,Swimming,FRA,,00:04:49.80
+London,1948,4x200 Freestyle Relay,Men,Swimming,USA,,00:08:46.00
+London,1948,4x200 Freestyle Relay,Men,Swimming,HUN,,00:08:48.40
+London,1948,4x200 Freestyle Relay,Men,Swimming,FRA,,00:09:08.00
+London,1948,4x200 Freestyle Relay,Men,Swimming,SWE,,00:09:09.10
+London,1948,4x200 Freestyle Relay,Men,Swimming,YUG,,00:09:14.00
+London,1948,4x200 Freestyle Relay,Men,Swimming,ARG,,00:09:19.20
+London,1948,4x200 Freestyle Relay,Men,Swimming,MEX,,00:09:20.20
+London,1948,4x200 Freestyle Relay,Men,Swimming,BRA,,00:09:31.00
+
+
+Helsinki,1952,100m Backstroke,Men,Swimming,USA,Yoshinobu Oyakawa,00:01:05.40
+Helsinki,1952,100m Backstroke,Men,Swimming,FRA,Bozon,00:01:06.20
+Helsinki,1952,100m Backstroke,Men,Swimming,USA,Taylor,00:01:06.40
+Helsinki,1952,100m Backstroke,Men,Swimming,USA,Stack,00:01:07.60
+Helsinki,1952,100m Backstroke,Men,Swimming,ARG,Galvao,00:01:07.70
+Helsinki,1952,100m Backstroke,Men,Swimming,GBR,Wardrop,00:01:07.80
+Helsinki,1952,100m Backstroke,Men,Swimming,YUG,Skanata,00:01:08.10
+Helsinki,1952,100m Backstroke,Men,Swimming,RSA,Meiring,00:01:08.30
+Helsinki,1952,100m Backstroke,Women,Swimming,RSA,Harrison,00:01:14.30
+Helsinki,1952,100m Backstroke,Women,Swimming,NED,Wielema,00:01:14.50
+Helsinki,1952,100m Backstroke,Women,Swimming,NZL,Stewart,00:01:15.80
+Helsinki,1952,100m Backstroke,Women,Swimming,NED,De Korte,00:01:15.80
+Helsinki,1952,100m Backstroke,Women,Swimming,USA,Stark,00:01:16.20
+Helsinki,1952,100m Backstroke,Women,Swimming,GER,Herrbruck,00:01:18.00
+Helsinki,1952,100m Backstroke,Women,Swimming,GBR,Mcdowell,00:01:18.40
+Helsinki,1952,100m Freestyle,Men,Swimming,USA,Scholes,00:00:57.40
+Helsinki,1952,100m Freestyle,Men,Swimming,JPN,Hiroshi Suzuki,00:00:57.40
+Helsinki,1952,100m Freestyle,Men,Swimming,SWE,Larsson,00:00:58.20
+Helsinki,1952,100m Freestyle,Men,Swimming,JPN,Toru Goto,00:00:58.60
+Helsinki,1952,100m Freestyle,Men,Swimming,HUN,Kadas,00:00:58.60
+Helsinki,1952,100m Freestyle,Men,Swimming,AUS,Aubrey,00:00:58.70
+Helsinki,1952,100m Freestyle,Men,Swimming,FRA,Eminente,00:00:58.70
+Helsinki,1952,100m Freestyle,Men,Swimming,USA,Gora,00:00:58.80
+Helsinki,1952,100m Freestyle,Women,Swimming,HUN,Szöke,00:01:06.80
+Helsinki,1952,100m Freestyle,Women,Swimming,NED,Termeulen,00:01:07.00
+Helsinki,1952,100m Freestyle,Women,Swimming,RSA,Harrison,00:01:07.10
+Helsinki,1952,100m Freestyle,Women,Swimming,USA,Alderson,00:01:07.10
+Helsinki,1952,100m Freestyle,Women,Swimming,NED,Heijting-Schuhmacher,00:01:07.30
+Helsinki,1952,100m Freestyle,Women,Swimming,USA,Stepan,00:01:08.00
+Helsinki,1952,100m Freestyle,Women,Swimming,GBR,Barnwell,00:01:08.60
+Helsinki,1952,1500m Freestyle,Men,Swimming,USA,Konno,00:18:30.30
+Helsinki,1952,1500m Freestyle,Men,Swimming,JPN,Shiro Hashizume,00:18:41.40
+Helsinki,1952,1500m Freestyle,Men,Swimming,BRA,Okamoto,00:18:51.30
+Helsinki,1952,1500m Freestyle,Men,Swimming,USA,Mclane,00:18:51.50
+Helsinki,1952,1500m Freestyle,Men,Swimming,FRA,Bernardo,00:18:59.10
+Helsinki,1952,1500m Freestyle,Men,Swimming,JPN,Yasuo Kitamura,00:19:00.40
+Helsinki,1952,1500m Freestyle,Men,Swimming,RSA,Duncan,00:19:12.10
+Helsinki,1952,1500m Freestyle,Men,Swimming,AUS,Marshall,00:19:53.40
+Helsinki,1952,200m Breaststroke,Men,Swimming,AUS,Davies,00:02:34.400
+Helsinki,1952,200m Breaststroke,Men,Swimming,USA,Stassforth,00:02:34.70
+Helsinki,1952,200m Breaststroke,Men,Swimming,GER,Klein,00:02:35.90
+Helsinki,1952,200m Breaststroke,Men,Swimming,JPN,Nobuyasu Hirayama,00:02:37.40
+Helsinki,1952,200m Breaststroke,Men,Swimming,JPN,Takayoshi Kajikawa,00:02:38.60
+Helsinki,1952,200m Breaststroke,Men,Swimming,JPN,Jiro Nagasawa,00:02:39.10
+Helsinki,1952,200m Breaststroke,Men,Swimming,FRA,Lusien,00:02:39.80
+Helsinki,1952,200m Breaststroke,Men,Swimming,TCH,Komadel,00:02:40.10
+Helsinki,1952,200m Breaststroke,Women,Swimming,HUN,Szekely,00:02:51.70
+Helsinki,1952,200m Breaststroke,Women,Swimming,HUN,Novak-Gerard,00:02:54.40
+Helsinki,1952,200m Breaststroke,Women,Swimming,GBR,Gordon-Mckay,00:02:57.60
+Helsinki,1952,200m Breaststroke,Women,Swimming,HUN,Bartos,00:02:57.60
+Helsinki,1952,200m Breaststroke,Women,Swimming,DEN,Hansen,00:02:57.80
+Helsinki,1952,200m Breaststroke,Women,Swimming,URS,Gavrish,00:02:58.90
+Helsinki,1952,200m Breaststroke,Women,Swimming,SWE,Eklund,00:03:01.80
+Helsinki,1952,200m Breaststroke,Women,Swimming,NED,Garritsen,00:03:02.10
+Helsinki,1952,400m Freestyle,Men,Swimming,FRA,Boiteux,00:04:30.70
+Helsinki,1952,400m Freestyle,Women,Swimming,HUN,Gyenge,00:05:12.10
+Helsinki,1952,4x100 Freestyle Relay,Women,Swimming,HUN,,00:04:24.40
+Helsinki,1952,4x200 Freestyle Relay,Men,Swimming,USA,,00:08:31.10
+
+
+Melbourne,1956,100m Backstroke,Men,Swimming,AUS,Theile,00:01:02.20
+Melbourne,1956,100m Backstroke,Men,Swimming,AUS,Monckton,00:01:03.20
+Melbourne,1956,100m Backstroke,Men,Swimming,USA,Mckinney,00:01:04.50
+Melbourne,1956,100m Backstroke,Men,Swimming,FRA,Christophe,00:01:04.90
+Melbourne,1956,100m Backstroke,Men,Swimming,AUS,Hayres,00:01:05.00
+Melbourne,1956,100m Backstroke,Men,Swimming,GBR,Sykes,00:01:05.60
+Melbourne,1956,100m Backstroke,Men,Swimming,USA,Wiggins,00:01:05.80
+Melbourne,1956,100m Backstroke,Men,Swimming,USA,Yoshinobu Oyakawa,00:01:06.90
+Melbourne,1956,100m Backstroke,Women,Swimming,GBR,Grinham,00:01:12.90
+Melbourne,1956,100m Backstroke,Women,Swimming,USA,Cone,00:01:12.90
+Melbourne,1956,100m Backstroke,Women,Swimming,GBR,Edwards,00:01:13.10
+Melbourne,1956,100m Backstroke,Women,Swimming,GER,Schmidt-Neuber,00:01:13.40
+Melbourne,1956,100m Backstroke,Women,Swimming,USA,Murphy,00:01:14.10
+Melbourne,1956,100m Backstroke,Women,Swimming,GBR,Hoyle,00:01:14.30
+Melbourne,1956,100m Backstroke,Women,Swimming,CAN,Barber-Jenkins,00:01:14.30
+Melbourne,1956,100m Backstroke,Women,Swimming,AUS,Beckitt,00:01:14.70
+Melbourne,1956,100m Butterfly,Women,Swimming,USA,Mann,00:01:11.00
+Melbourne,1956,100m Butterfly,Women,Swimming,USA,Ramey,00:01:11.90
+Melbourne,1956,100m Butterfly,Women,Swimming,USA,Sears,00:01:14.40
+Melbourne,1956,100m Butterfly,Women,Swimming,HUN,Littomeritzky,00:01:14.90
+Melbourne,1956,100m Butterfly,Women,Swimming,AUS,Bainbridge,00:01:15.20
+Melbourne,1956,100m Butterfly,Women,Swimming,GER,Langenau,00:01:17.40
+Melbourne,1956,100m Butterfly,Women,Swimming,CAN,Whittall,00:01:17.90
+Melbourne,1956,100m Butterfly,Women,Swimming,CAN,Barber-Jenkins,00:01:18.40
+Melbourne,1956,100m Freestyle,Men,Swimming,AUS,Henricks,00:00:55.40
+Melbourne,1956,100m Freestyle,Men,Swimming,AUS,Devitt,00:00:55.80
+Melbourne,1956,100m Freestyle,Men,Swimming,AUS,Chapman,00:00:56.70
+Melbourne,1956,100m Freestyle,Men,Swimming,USA,Patterson,00:00:57.20
+Melbourne,1956,100m Freestyle,Men,Swimming,USA,Hanley,00:00:57.60
+Melbourne,1956,100m Freestyle,Men,Swimming,USA,Woolsey,00:00:57.60
+Melbourne,1956,100m Freestyle,Men,Swimming,JPN,Atsushi Tani,00:00:58.00
+Melbourne,1956,100m Freestyle,Men,Swimming,FRA,Eminente,00:00:58.10
+Melbourne,1956,100m Freestyle,Women,Swimming,AUS,Fraser,00:01:02.00
+Melbourne,1956,100m Freestyle,Women,Swimming,AUS,Crapp,00:01:02.30
+Melbourne,1956,100m Freestyle,Women,Swimming,AUS,Leech,00:01:05.10
+Melbourne,1956,100m Freestyle,Women,Swimming,USA,Rosazza,00:01:05.20
+Melbourne,1956,100m Freestyle,Women,Swimming,CAN,Grant,00:01:05.40
+Melbourne,1956,100m Freestyle,Women,Swimming,USA,Mann,00:01:05.60
+Melbourne,1956,100m Freestyle,Women,Swimming,NZL,Roe,00:01:05.60
+Melbourne,1956,100m Freestyle,Women,Swimming,RSA,Myburgh,00:01:05.80
+Melbourne,1956,1500m Freestyle,Men,Swimming,AUS,Rose,00:17:58.90
+Melbourne,1956,1500m Freestyle,Men,Swimming,JPN,Tsuyoshi Yamanaka,00:18:00.30
+Melbourne,1956,1500m Freestyle,Men,Swimming,USA,Breen,00:18:08.20
+Melbourne,1956,1500m Freestyle,Men,Swimming,AUS,Garretty,00:18:26.50
+Melbourne,1956,1500m Freestyle,Men,Swimming,CAN,Slater,00:18:38.10
+Melbourne,1956,1500m Freestyle,Men,Swimming,FRA,Boiteux,00:18:38.30
+Melbourne,1956,1500m Freestyle,Men,Swimming,JPN,Yukiyoshi Aoki,00:18:38.30
+Melbourne,1956,1500m Freestyle,Men,Swimming,AUS,Winram,00:19:06.20
+Melbourne,1956,200m Breaststroke,Men,Swimming,JPN,Masaru Furukawa,00:02:34.70
+Melbourne,1956,200m Breaststroke,Men,Swimming,JPN,Masahiro Yoshimura,00:02:36.70
+Melbourne,1956,200m Breaststroke,Men,Swimming,URS,Yunichev,00:02:36.80
+Melbourne,1956,200m Breaststroke,Men,Swimming,AUS,Gathercole,00:02:38.70
+Melbourne,1956,200m Breaststroke,Men,Swimming,URS,Zaseda,00:02:39.00
+Melbourne,1956,200m Breaststroke,Men,Swimming,DEN,Gleie,00:02:40.00
+Melbourne,1956,200m Breaststroke,Men,Swimming,CUB,Betancourt,00:02:42.00
+Melbourne,1956,200m Breaststroke,Women,Swimming,GER,Happe-Krey,00:02:53.10
+Melbourne,1956,200m Breaststroke,Women,Swimming,HUN,Szekely,00:02:54.80
+Melbourne,1956,200m Breaststroke,Women,Swimming,GER,Elsen,00:02:55.10
+Melbourne,1956,200m Breaststroke,Women,Swimming,YUG,Jeričević,00:02:55.80
+Melbourne,1956,200m Breaststroke,Women,Swimming,HUN,Bartos,00:02:56.10
+Melbourne,1956,200m Breaststroke,Women,Swimming,GBR,Gordon-Mckay,00:02:56.10
+Melbourne,1956,200m Breaststroke,Women,Swimming,USA,Sears,00:02:57.20
+Melbourne,1956,200m Breaststroke,Women,Swimming,GBR,Gosden,00:02:59.20
+Melbourne,1956,200m Butterfly,Men,Swimming,USA,Yorzyk,00:02:19.30
+Melbourne,1956,200m Butterfly,Men,Swimming,JPN,Takashi Ishimoto,00:02:23.80
+Melbourne,1956,200m Butterfly,Men,Swimming,HUN,Tumpek,00:02:23.90
+Melbourne,1956,200m Butterfly,Men,Swimming,USA,Nelson,00:02:26.60
+Melbourne,1956,200m Butterfly,Men,Swimming,AUS,Marshall,00:02:27.20
+Melbourne,1956,200m Butterfly,Men,Swimming,MEX,Aleman,00:02:27.30
+Melbourne,1956,200m Butterfly,Men,Swimming,AUS,Wilkinson,00:02:29.70
+Melbourne,1956,200m Butterfly,Men,Swimming,ROU,Popescu,00:02:32.00
+Melbourne,1956,400m Freestyle,Men,Swimming,AUS,Rose,00:04:27.30
+Melbourne,1956,400m Freestyle,Women,Swimming,AUS,Crapp,00:04:54.60
+Melbourne,1956,4x100 Freestyle Relay,Women,Swimming,AUS,,00:04:17.10
+Melbourne,1956,4x200 Freestyle Relay,Men,Swimming,AUS,,00:08:23.60
+
+
+Rome,1960,100m Backstroke,Men,Swimming,AUS,Theile,00:01:01.90
+Rome,1960,100m Backstroke,Men,Swimming,USA,Mckinney,00:01:02.10
+Rome,1960,100m Backstroke,Men,Swimming,USA,Bennett,00:01:02.30
+Rome,1960,100m Backstroke,Men,Swimming,FRA,Christophe,00:01:03.20
+Rome,1960,100m Backstroke,Men,Swimming,URS,Barbier,00:01:03.50
+Rome,1960,100m Backstroke,Men,Swimming,GER,Wagner,00:01:03.50
+Rome,1960,100m Backstroke,Men,Swimming,AUS,Monckton,00:01:04.10
+Rome,1960,100m Backstroke,Men,Swimming,URS,Siimar,00:01:04.60
+Rome,1960,100m Backstroke,Women,Swimming,USA,Burke,00:01:09.30
+Rome,1960,100m Backstroke,Women,Swimming,GBR,Steward,00:01:10.80
+Rome,1960,100m Backstroke,Women,Swimming,JPN,Satoko Tanaka,00:01:11.40
+Rome,1960,100m Backstroke,Women,Swimming,RSA,Ranwell,00:01:11.40
+Rome,1960,100m Backstroke,Women,Swimming,FRA,Piacentini,00:01:11.40
+Rome,1960,100m Backstroke,Women,Swimming,GBR,Lewis,00:01:11.80
+Rome,1960,100m Backstroke,Women,Swimming,NED,Van Velsen,00:01:12.10
+Rome,1960,100m Backstroke,Women,Swimming,FRA,Delache,00:01:12.40
+Rome,1960,100m Butterfly,Women,Swimming,USA,Schuler,00:01:09.50
+Rome,1960,100m Butterfly,Women,Swimming,NED,Heemskerk,00:01:10.40
+Rome,1960,100m Butterfly,Women,Swimming,AUS,Andrew,00:01:12.20
+Rome,1960,100m Butterfly,Women,Swimming,GBR,Watt,00:01:13.30
+Rome,1960,100m Butterfly,Women,Swimming,NED,Voorbij,00:01:13.30
+Rome,1960,100m Butterfly,Women,Swimming,URS,Belovetskaya,00:01:13.30
+Rome,1960,100m Butterfly,Women,Swimming,SWE,Larsson,00:01:13.60
+Rome,1960,100m Freestyle,Men,Swimming,AUS,Devitt,00:00:55.20
+Rome,1960,100m Freestyle,Men,Swimming,USA,Larson,00:00:55.10
+Rome,1960,100m Freestyle,Men,Swimming,BRA,Dos Santos,00:00:55.40
+Rome,1960,100m Freestyle,Men,Swimming,USA,Hunter,00:00:55.60
+Rome,1960,100m Freestyle,Men,Swimming,HUN,Dobai,00:00:56.30
+Rome,1960,100m Freestyle,Men,Swimming,CAN,Pound,00:00:56.30
+Rome,1960,100m Freestyle,Men,Swimming,RSA,Burer,00:00:56.30
+Rome,1960,100m Freestyle,Men,Swimming,SWE,Lindberg,00:00:57.10
+Rome,1960,100m Freestyle,Women,Swimming,AUS,Fraser,00:01:01.20
+Rome,1960,100m Freestyle,Women,Swimming,USA,Saltza,00:01:02.80
+Rome,1960,100m Freestyle,Women,Swimming,GBR,Steward,00:01:03.10
+Rome,1960,100m Freestyle,Women,Swimming,USA,Wood,00:01:03.40
+Rome,1960,100m Freestyle,Women,Swimming,HUN,Madarasz-Bajnogel-Dobai,00:01:03.60
+Rome,1960,100m Freestyle,Women,Swimming,NED,Terpstra,00:01:04.30
+Rome,1960,100m Freestyle,Women,Swimming,NED,Gastelaars,00:01:04.70
+Rome,1960,100m Freestyle,Women,Swimming,CAN,Stewart,00:01:05.50
+Rome,1960,1500m Freestyle,Men,Swimming,AUS,Konrads,00:17:19.60
+Rome,1960,1500m Freestyle,Men,Swimming,AUS,Rose,00:17:21.70
+Rome,1960,1500m Freestyle,Men,Swimming,USA,Breen,00:17:30.60
+Rome,1960,1500m Freestyle,Men,Swimming,JPN,Tsuyoshi Yamanaka,00:17:34.70
+Rome,1960,1500m Freestyle,Men,Swimming,HUN,Katona,00:17:43.70
+Rome,1960,1500m Freestyle,Men,Swimming,RSA,Mclachlan,00:17:44.90
+Rome,1960,1500m Freestyle,Men,Swimming,USA,Somers,00:18:02.80
+Rome,1960,1500m Freestyle,Men,Swimming,GBR,Campion,00:18:22.70
+Rome,1960,200m Breaststroke,Women,Swimming,GBR,Lonsbrough,00:02:49.50
+Rome,1960,200m Butterfly,Men,Swimming,USA,Troy,00:02:12.80
+Rome,1960,400m Freestyle,Men,Swimming,AUS,Rose,00:04:18.30
+Rome,1960,400m Freestyle,Women,Swimming,USA,Saltza,00:04:50.60
+Rome,1960,4x100 Freestyle Relay,Women,Swimming,USA,,00:04:08.90
+Rome,1960,4x100 Freestyle Relay,Men,Swimming,USA,,00:04:05.40
+Rome,1960,4x100 Freestyle Relay,Women,Swimming,USA,,00:04:41.10
+Rome,1960,4x200 Freestyle Relay,Men,Swimming,USA,,00:08:10.20
+
+
+Tokyo,1964,100m Backstroke,Women,Swimming,USA,Ferguson,00:01:07.70
+Tokyo,1964,100m Backstroke,Women,Swimming,FRA,Caron,00:01:07.90
+Tokyo,1964,100m Backstroke,Women,Swimming,USA,Duenkel,00:01:08.00
+Tokyo,1964,100m Backstroke,Women,Swimming,JPN,Satoko Tanaka,00:01:08.60
+Tokyo,1964,100m Backstroke,Women,Swimming,USA,Harmer,00:01:09.40
+Tokyo,1964,100m Backstroke,Women,Swimming,GBR,Ludgrove,00:01:09.50
+Tokyo,1964,100m Backstroke,Women,Swimming,CAN,Weir,00:01:09.80
+Tokyo,1964,100m Backstroke,Women,Swimming,GBR,Norfolk,00:01:11.20
+Tokyo,1964,100m Butterfly,Women,Swimming,USA,Stouder,00:01:04.70
+Tokyo,1964,100m Butterfly,Women,Swimming,NED,Kok,00:01:05.60
+Tokyo,1964,100m Butterfly,Women,Swimming,USA,Ellis,00:01:06.00
+Tokyo,1964,100m Butterfly,Women,Swimming,FIN,Pyrhonen,00:01:07.30
+Tokyo,1964,100m Butterfly,Women,Swimming,USA,De Varona,00:01:08.00
+Tokyo,1964,100m Butterfly,Women,Swimming,GER,Hustede-Nagel,00:01:08.50
+Tokyo,1964,100m Butterfly,Women,Swimming,JPN,Eiko Takahashi,00:01:09.10
+Tokyo,1964,100m Butterfly,Women,Swimming,CAN,Stewart,00:01:10.00
+Tokyo,1964,100m Freestyle,Men,Swimming,USA,Schollander,00:00:53.40
+Tokyo,1964,100m Freestyle,Men,Swimming,GBR,Mcgregor,00:00:53.50
+Tokyo,1964,100m Freestyle,Men,Swimming,GER,Klein,00:00:54.00
+Tokyo,1964,100m Freestyle,Men,Swimming,USA,Ilman,00:00:54.20
+Tokyo,1964,100m Freestyle,Men,Swimming,FRA,Gottvalles,00:00:54.20
+Tokyo,1964,100m Freestyle,Men,Swimming,USA,Austin,00:00:54.50
+Tokyo,1964,100m Freestyle,Men,Swimming,HUN,Dobai,00:00:54.90
+Tokyo,1964,100m Freestyle,Men,Swimming,GER,Jacobsen,00:00:56.10
+Tokyo,1964,100m Freestyle,Women,Swimming,AUS,Fraser,00:00:59.50
+Tokyo,1964,100m Freestyle,Women,Swimming,USA,Stouder,00:00:59.90
+Tokyo,1964,100m Freestyle,Women,Swimming,USA,Ellis,00:01:00.80
+Tokyo,1964,100m Freestyle,Women,Swimming,NED,Terpstra,00:01:01.80
+Tokyo,1964,100m Freestyle,Women,Swimming,CAN,Lay,00:01:02.20
+Tokyo,1964,100m Freestyle,Women,Swimming,HUN,Madarasz-Bajnogel-Dobai,00:01:02.40
+Tokyo,1964,100m Freestyle,Women,Swimming,SWE,Hagberg,00:01:02.50
+Tokyo,1964,100m Freestyle,Women,Swimming,AUS,Bell,00:01:02.70
+Tokyo,1964,1500m Freestyle,Men,Swimming,AUS,Windle,00:17:01.70
+Tokyo,1964,1500m Freestyle,Men,Swimming,USA,Nelson,00:17:03.00
+Tokyo,1964,1500m Freestyle,Men,Swimming,AUS,Wood,00:17:07.70
+Tokyo,1964,1500m Freestyle,Men,Swimming,USA,Farley,00:17:18.20
+Tokyo,1964,1500m Freestyle,Men,Swimming,AUS,Phegan,00:17:22.40
+Tokyo,1964,1500m Freestyle,Men,Swimming,JPN,Sueaki Sasaki,00:17:25.30
+Tokyo,1964,1500m Freestyle,Men,Swimming,USA,Saari,00:17:29.20
+Tokyo,1964,1500m Freestyle,Men,Swimming,HUN,Katona,00:17:30.80
+Tokyo,1964,200m Backstroke,Men,Swimming,USA,Graef,00:02:10.30
+Tokyo,1964,200m Breaststroke,Men,Swimming,AUS,O'Brien,00:02:27.80
+Tokyo,1964,200m Breaststroke,Women,Swimming,URS,Prozumenshchikova-Stepanova,00:02:46.40
+Tokyo,1964,200m Breaststroke,Women,Swimming,USA,Kolb,00:02:47.60
+Tokyo,1964,200m Breaststroke,Women,Swimming,URS,Babanina,00:02:48.60
+Tokyo,1964,200m Breaststroke,Women,Swimming,GBR,Mitchell,00:02:49.00
+Tokyo,1964,200m Breaststroke,Women,Swimming,GBR,Slattery,00:02:49.60
+Tokyo,1964,200m Breaststroke,Women,Swimming,GER,Grimmer,00:02:51.00
+Tokyo,1964,200m Breaststroke,Women,Swimming,NED,Bimolt,00:02:51.30
+Tokyo,1964,200m Breaststroke,Women,Swimming,GER,Küper,00:02:53.90
+Tokyo,1964,200m Butterfly,Men,Swimming,AUS,Berry,00:02:06.60
+Tokyo,1964,400m Freestyle,Men,Swimming,USA,Schollander,00:04:12.20
+Tokyo,1964,400m Freestyle,Women,Swimming,USA,Duenkel,00:04:43.30
+Tokyo,1964,400m Individual Medley,Men,Swimming,USA,Roth,00:04:45.40
+Tokyo,1964,400m Individual Medley,Women,Swimming,USA,De Varona,00:05:18.70
+Tokyo,1964,4x100 Freestyle Relay,Men,Swimming,USA,,00:03:33.20
+Tokyo,1964,4x100 Freestyle Relay,Women,Swimming,USA,,00:04:03.80
+Tokyo,1964,4x100m Medley Relay,Men,Swimming,USA,,00:03:58.40
+Tokyo,1964,4x100m Medley Relay,Women,Swimming,USA,,00:04:33.90
+Tokyo,1964,4x200 Freestyle Relay,Men,Swimming,USA,,00:07:52.10
+
+
+Mexico City ,1968,100m Backstroke,Men,Swimming,GDR,Matthes,00:00:58.70
+Mexico City ,1968,100m Backstroke,Men,Swimming,USA,Hickcox,00:01:00.20
+Mexico City ,1968,100m Backstroke,Men,Swimming,USA,Mills,00:01:00.50
+Mexico City ,1968,100m Backstroke,Men,Swimming,USA,Barbiere,00:01:01.10
+Mexico City ,1968,100m Backstroke,Men,Swimming,CAN,Shaw,00:01:01.40
+Mexico City ,1968,100m Backstroke,Men,Swimming,NED,Schoutsen,00:01:01.80
+Mexico City ,1968,100m Backstroke,Men,Swimming,FRG,Blechert,00:01:01.90
+Mexico City ,1968,100m Backstroke,Men,Swimming,ITA,Del Campo,00:01:02.00
+Mexico City ,1968,100m Backstroke,Women,Swimming,USA,Hall,00:01:06.20
+Mexico City ,1968,100m Backstroke,Women,Swimming,CAN,Tanner,00:01:06.70
+Mexico City ,1968,100m Backstroke,Women,Swimming,USA,Swagerty,00:01:08.10
+Mexico City ,1968,100m Backstroke,Women,Swimming,USA,Moore,00:01:08.30
+Mexico City ,1968,100m Backstroke,Women,Swimming,HUN,Gyarmati,00:01:09.10
+Mexico City ,1968,100m Backstroke,Women,Swimming,AUS,Watson,00:01:09.10
+Mexico City ,1968,100m Backstroke,Women,Swimming,FRA,Canet-Le Noach,00:01:09.30
+Mexico City ,1968,100m Backstroke,Women,Swimming,NZL,Stirling,00:01:10.60
+Mexico City ,1968,100m Breaststroke,Men,Swimming,USA,Mckenzie,00:01:07.70
+Mexico City ,1968,100m Breaststroke,Men,Swimming,URS,Kosinsky,00:01:08.00
+Mexico City ,1968,100m Breaststroke,Men,Swimming,URS,Pankin,00:01:08.00
+Mexico City ,1968,100m Breaststroke,Men,Swimming,BRA,Fiolo,00:01:08.10
+Mexico City ,1968,100m Breaststroke,Men,Swimming,URS,Mikhaylov,00:01:08.40
+Mexico City ,1968,100m Breaststroke,Men,Swimming,AUS,O'Brien,00:01:08.60
+Mexico City ,1968,100m Breaststroke,Men,Swimming,ARG,Lopez,00:01:08.70
+Mexico City ,1968,100m Breaststroke,Men,Swimming,GDR,Henninger,00:01:09.70
+Mexico City ,1968,100m Breaststroke,Women,Swimming,YUG,Bjedov,00:01:15.80
+Mexico City ,1968,100m Breaststroke,Women,Swimming,URS,Prozumenshchikova-Stepanova,00:01:15.90
+Mexico City ,1968,100m Breaststroke,Women,Swimming,USA,Wichman,00:01:16.10
+Mexico City ,1968,100m Breaststroke,Women,Swimming,FRG,Frommater,00:01:16.20
+Mexico City ,1968,100m Breaststroke,Women,Swimming,USA,Ball,00:01:16.70
+Mexico City ,1968,100m Breaststroke,Women,Swimming,JPN,Kiyoe Nakagawa,00:01:17.00
+Mexico City ,1968,100m Breaststroke,Women,Swimming,URS,Babanina,00:01:17.20
+Mexico City ,1968,100m Breaststroke,Women,Swimming,URU,Norbis,00:01:17.30
+Mexico City ,1968,100m Butterfly,Men,Swimming,USA,Russell,00:00:55.90
+Mexico City ,1968,100m Butterfly,Men,Swimming,USA,Spitz,00:00:56.40
+Mexico City ,1968,100m Butterfly,Men,Swimming,USA,Wales,00:00:57.20
+Mexico City ,1968,100m Butterfly,Men,Swimming,URS,Nemshilov,00:00:58.10
+Mexico City ,1968,100m Butterfly,Men,Swimming,JPN,Satoshi Maruya,00:00:58.60
+Mexico City ,1968,100m Butterfly,Men,Swimming,URS,Suzdaltsev,00:00:58.80
+Mexico City ,1968,100m Butterfly,Men,Swimming,FRG,Stocklasa,00:00:58.90
+Mexico City ,1968,100m Butterfly,Men,Swimming,AUS,Cusack,00:00:59.80
+Mexico City ,1968,100m Butterfly,Women,Swimming,AUS,Mcclements,00:01:05.50
+Mexico City ,1968,100m Butterfly,Women,Swimming,USA,Daniel,00:01:05.80
+Mexico City ,1968,100m Butterfly,Women,Swimming,USA,Shields,00:01:06.20
+Mexico City ,1968,100m Butterfly,Women,Swimming,NED,Kok,00:01:06.20
+Mexico City ,1968,100m Butterfly,Women,Swimming,HUN,Gyarmati,00:01:06.80
+Mexico City ,1968,100m Butterfly,Women,Swimming,FRG,Hustede-Nagel,00:01:06.90
+Mexico City ,1968,100m Butterfly,Women,Swimming,USA,Hewitt,00:01:07.50
+Mexico City ,1968,100m Butterfly,Women,Swimming,GDR,Lindner,00:01:07.60
+Mexico City ,1968,100m Freestyle,Men,Swimming,AUS,Wenden,00:00:52.20
+Mexico City ,1968,100m Freestyle,Men,Swimming,USA,Walsh,00:00:52.80
+Mexico City ,1968,100m Freestyle,Men,Swimming,USA,Spitz,00:00:53.00
+Mexico City ,1968,100m Freestyle,Men,Swimming,GBR,Mcgregor,00:00:53.50
+Mexico City ,1968,100m Freestyle,Men,Swimming,URS,Ilyichev,00:00:53.80
+Mexico City ,1968,100m Freestyle,Men,Swimming,URS,Kulikovs,00:00:53.80
+Mexico City ,1968,100m Freestyle,Men,Swimming,ARG,Yanuzzi,00:00:53.90
+Mexico City ,1968,100m Freestyle,Men,Swimming,USA,Zorn,00:00:53.90
+Mexico City ,1968,100m Freestyle,Women,Swimming,USA,Henne,00:01:00.00
+Mexico City ,1968,100m Freestyle,Women,Swimming,USA,Pedersen,00:01:00.30
+Mexico City ,1968,100m Freestyle,Women,Swimming,USA,Gustavson,00:01:00.30
+Mexico City ,1968,100m Freestyle,Women,Swimming,CAN,Lay,00:01:00.50
+Mexico City ,1968,100m Freestyle,Women,Swimming,GDR,Grunert,00:01:01.00
+Mexico City ,1968,100m Freestyle,Women,Swimming,GBR,Jackson,00:01:01.00
+Mexico City ,1968,100m Freestyle,Women,Swimming,YUG,Šegrt,00:01:01.50
+Mexico City ,1968,100m Freestyle,Women,Swimming,HUN, Turóczy,00:01:01.60
+Mexico City ,1968,1500m Freestyle,Men,Swimming,USA,Burton,00:16:38.90
+Mexico City ,1968,1500m Freestyle,Men,Swimming,USA,Kinsella,00:16:57.30
+Mexico City ,1968,1500m Freestyle,Men,Swimming,AUS,Brough,00:17:04.70
+Mexico City ,1968,1500m Freestyle,Men,Swimming,AUS,White,00:17:08.00
+Mexico City ,1968,1500m Freestyle,Men,Swimming,CAN,Hutton,00:17:15.60
+Mexico City ,1968,1500m Freestyle,Men,Swimming,MEX,Perez,00:17:36.40
+Mexico City ,1968,1500m Freestyle,Men,Swimming,MEX,Alanis,00:17:46.60
+Mexico City ,1968,1500m Freestyle,Men,Swimming,USA,Nelson,00:18:05.10
+Mexico City ,1968,200m Backstroke,Men,Swimming,GDR,Matthes,00:02:09.60
+Mexico City ,1968,200m Backstroke,Women,Swimming,GDR,Matthes,00:02:09.60
+Mexico City ,1968,200m Breaststroke,Women,Swimming,USA,Wichman,00:02:44.40
+Mexico City ,1968,200m Butterfly,Women,Swimming,NED,Kok,00:02:24.70
+Mexico City ,1968,200m Freestyle,Men,Swimming,AUS,Wenden,00:01:55.20
+Mexico City ,1968,200m Freestyle,Women,Swimming,USA,Meyer,00:02:10.50
+Mexico City ,1968,200m Individual Medley,Men,Swimming,USA,Hickcox,00:02:12.00
+Mexico City ,1968,200m Individual Medley,Men,Swimming,USA,Buckingham,00:02:13.00
+Mexico City ,1968,200m Individual Medley,Men,Swimming,USA,Ferris,00:02:13.30
+Mexico City ,1968,200m Individual Medley,Men,Swimming,PER,Bello,00:02:13.70
+Mexico City ,1968,200m Individual Medley,Men,Swimming,CAN,Smith,00:02:15.90
+Mexico City ,1968,200m Individual Medley,Men,Swimming,CAN,Gilchrist,00:02:16.60
+Mexico City ,1968,200m Individual Medley,Men,Swimming,FRG,Holthaus,00:02:16.80
+Mexico City ,1968,200m Individual Medley,Men,Swimming,HUN,Lazar,00:02:18.30
+Mexico City ,1968,200m Individual Medley,Women,Swimming,USA,Kolb,00:02:24.70
+Mexico City ,1968,200m Individual Medley,Women,Swimming,USA,Pedersen,00:02:28.80
+Mexico City ,1968,200m Individual Medley,Women,Swimming,USA,Henne,00:02:31.40
+Mexico City ,1968,200m Individual Medley,Women,Swimming,GDR,Steinbach,00:02:31.40
+Mexico City ,1968,200m Individual Medley,Women,Swimming,JPN,Yoshimi Nishigawa,00:02:33.70
+Mexico City ,1968,200m Individual Medley,Women,Swimming,GDR,Seydel,00:02:33.70
+Mexico City ,1968,200m Individual Medley,Women,Swimming,URS,Zakharova,00:02:37.00
+Mexico City ,1968,400m Freestyle,Men,Swimming,USA,Burton,00:04:09.00
+Mexico City ,1968,400m Freestyle,Women,Swimming,USA,Meyer,00:04:31.80
+Mexico City ,1968,400m Individual Medley,Women,Swimming,USA,Kolb,00:05:08.50
+Mexico City ,1968,4x100 Freestyle Relay,Men,Swimming,USA,,00:03:31.70
+Mexico City ,1968,4x100 Freestyle Relay,Women,Swimming,USA,,00:04:02.50
+Mexico City ,1968,4x100m Medley Relay,Men,Swimming,USA,,00:03:54.90
+Mexico City ,1968,4x100m Medley Relay,Women,Swimming,USA,,00:04:28.30
+Mexico City ,1968,800m Freestyle,Women,Swimming,USA,Meyer,00:09:24.00
+
+
+Munich,1972,100m Backstroke,Men,Swimming,GDR,Matthes,00:00:56.58
+Munich,1972,100m Backstroke,Women,Swimming,USA,Belote,00:01:05.78
+Munich,1972,100m Breaststroke,Men,Swimming,JPN,Nobutaka Taguchi,00:01:04.94
+Munich,1972,100m Breaststroke,Women,Swimming,USA,Carr,00:01:13.58
+Munich,1972,100m Butterfly,Men,Swimming,USA,Spitz,00:00:54.27
+Munich,1972,100m Butterfly,Women,Swimming,JPN,Mayumi Aoki,00:01:03.34
+Munich,1972,100m Freestyle,Men,Swimming,USA,Spitz,00:00:51.22
+Munich,1972,100m Freestyle,Women,Swimming,USA,Neilson,00:00:58.59
+Munich,1972,1500m Freestyle,Men,Swimming,USA,Burton,00:15:52.58
+Munich,1972,1500m Freestyle,Men,Swimming,AUS,Windeatt,00:15:58.48
+Munich,1972,1500m Freestyle,Men,Swimming,USA,Northway,00:16:09.25
+Munich,1972,1500m Freestyle,Men,Swimming,SWE,Gingsjo,00:16:16.01
+Munich,1972,1500m Freestyle,Men,Swimming,AUS,White,00:16:17.22
+Munich,1972,1500m Freestyle,Men,Swimming,NZL,Treffers,00:16:18.84
+Munich,1972,1500m Freestyle,Men,Swimming,AUS,Cooper,00:16:30.49
+Munich,1972,1500m Freestyle,Men,Swimming,MEX,Garcia,00:16:36.03
+Munich,1972,200m Backstroke,Men,Swimming,GDR,Matthes,00:02:02.82
+Munich,1972,200m Backstroke,Women,Swimming,USA,Belote,00:02:19.19
+Munich,1972,200m Breaststroke,Men,Swimming,USA,Hencken,00:02:21.55
+Munich,1972,200m Breaststroke,Women,Swimming,AUS,Whitfield,00:02:41.71
+Munich,1972,200m Butterfly,Men,Swimming,USA,Spitz,00:02:00.70
+Munich,1972,200m Butterfly,Women,Swimming,USA,Moe-Thornton,00:02:15.57
+Munich,1972,200m Freestyle,Men,Swimming,USA,Spitz,00:01:52.78
+Munich,1972,200m Freestyle,Women,Swimming,AUS,Gould,00:02:03.56
+Munich,1972,200m Individual Medley,Men,Swimming,SWE,Larsson,00:02:07.17
+Munich,1972,200m Individual Medley,Women,Swimming,AUS,Gould,00:02:23.07
+Munich,1972,400m Freestyle,Men,Swimming,AUS,Cooper,00:04:00.27
+Munich,1972,400m Freestyle,Women,Swimming,AUS,Gould,00:04:19.04
+Munich,1972,400m Individual Medley,Men,Swimming,SWE,Larsson,00:04:31.98
+Munich,1972,400m Individual Medley,Men,Swimming,USA,Mckee,00:04:31.98
+Munich,1972,400m Individual Medley,Women,Swimming,AUS,Neall,00:05:02.97
+Munich,1972,4x100 Freestyle Relay,Men,Swimming,USA,,00:03:26.42
+Munich,1972,4x100 Freestyle Relay,Women,Swimming,USA,,00:03:55.19
+Munich,1972,4x100m Medley Relay,Men,Swimming,USA,,00:04:48.16
+Munich,1972,4x100m Medley Relay,Women,Swimming,USA,,00:04:20.75
+Munich,1972,4x200 Freestyle Relay,Men,Swimming,USA,,00:07:35.78
+Munich,1972,800m Freestyle,Women,Swimming,USA,Rothhammer,00:08:53.68
+
+
+Montreal,1976,100m Backstroke,Men,Swimming,USA,Nader,00:00:55.49
+Montreal,1976,100m Backstroke,Women,Swimming,GDR,Richter,00:01:01.83
+Montreal,1976,100m Breaststroke,Men,Swimming,USA,Hencken,00:01:03.11
+Montreal,1976,100m Butterfly,Women,Swimming,GDR,Ender,00:01:00.13
+Montreal,1976,100m Freestyle,Men,Swimming,USA,Montgomery,00:00:49.99
+Montreal,1976,100m Freestyle,Women,Swimming,GDR,Ender,00:00:55.65
+Montreal,1976,1500m Freestyle,Men,Swimming,USA,Goodell,00:15:02.40
+Montreal,1976,1500m Freestyle,Men,Swimming,USA,Hackett,00:15:03.91
+Montreal,1976,1500m Freestyle,Men,Swimming,AUS,Holland,00:15:04.66
+Montreal,1976,1500m Freestyle,Men,Swimming,BRA,Madruga,00:15:19.84
+Montreal,1976,1500m Freestyle,Men,Swimming,URS,Salnikov,00:15:29.45
+Montreal,1976,1500m Freestyle,Men,Swimming,AUS,Metzker,00:15:31.53
+Montreal,1976,1500m Freestyle,Men,Swimming,USA,Hartloff,00:15:32.08
+Montreal,1976,1500m Freestyle,Men,Swimming,HUN,Wladar,00:15:45.97
+Montreal,1976,200m Backstroke,Men,Swimming,USA,Naber,00:01:59.19
+Montreal,1976,200m Backstroke,Women,Swimming,GDR,Richter,00:02:13.43
+Montreal,1976,200m Breaststroke,Men,Swimming,GBR,Wilkie,00:02:15.11
+Montreal,1976,200m Breaststroke,Women,Swimming,URS,Koshevaya,00:02:33.35
+Montreal,1976,200m Butterfly,Men,Swimming,USA,Bruner,00:01:59.23
+Montreal,1976,200m Breaststroke,Women,Swimming,GDR,Pollack,00:02:11.41
+Montreal,1976,200m Freestyle,Men,Swimming,USA,Furniss,00:01:50.29
+Montreal,1976,200m Freestyle,Women,Swimming,GDR,Ender,00:01:59.26
+Montreal,1976,400m Freestyle,Men,Swimming,USA,Goodell,00:03:51.93
+Montreal,1976,400m Freestyle,Women,Swimming,GDR,Thümer,00:04:09.89
+Montreal,1976,400m Individual Medley,Men,Swimming,USA,Strachan,00:04:23.68
+Montreal,1976,400m Individual Medley,Women,Swimming,GDR,Tauber,00:04:42.77
+Montreal,1976,4x100 Freestyle Relay,Women,Swimming,USA,,00:03:44.82
+Montreal,1976,4x100m Medley Relay,Men,Swimming,USA,,00:03:42.22
+Montreal,1976,4x100m Medley Relay,Women,Swimming,GDR,,00:04:07.95
+Montreal,1976,4x200 Freestyle Relay,Men,Swimming,USA,,00:07:23.22
+Montreal,1976,800m Freestyle,Women,Swimming,GDR,Thümer,00:08:37.14
+
+
+Moscow,1980,100m Backstroke,Women,Swimming,GDR,Reinisch,00:01:00.86
+Moscow,1980,100m Freestyle,Women,Swimming,GDR,Krause,00:00:54.79
+Moscow,1980,1500m Freestyle,Men,Swimming,URS,Salnikov,00:14:58.27
+Moscow,1980,1500m Freestyle,Men,Swimming,URS,Chaev,00:15:14.30
+Moscow,1980,1500m Freestyle,Men,Swimming,AUS,Metzker,00:15:14.49
+Moscow,1980,1500m Freestyle,Men,Swimming,GDR,Strohbach,00:15:15.29
+Moscow,1980,1500m Freestyle,Men,Swimming,YUG,Petric,00:15:21.78
+Moscow,1980,1500m Freestyle,Men,Swimming,ESP,Escalas,00:15:21.88
+Moscow,1980,1500m Freestyle,Men,Swimming,HUN,Wladar,00:15:26.70
+Moscow,1980,1500m Freestyle,Men,Swimming,URS,Petrov,00:15:28.24
+Moscow,1980,200m Backstroke,Women,Swimming,GDR,Reinisch,00:02:11.77
+Moscow,1980,200m Breaststroke,Women,Swimming,URS,Kachushite,00:02:29.54
+Moscow,1980,200m Butterfly,Women,Swimming,GDR,Geissler,00:02:10.44
+Moscow,1980,200m Freestyle,Men,Swimming,URS,Koplyakov,00:01:49.81
+Moscow,1980,200m Freestyle,Women,Swimming,GDR,Krause,00:01:58.33
+Moscow,1980,400m Freestyle,Men,Swimming,URS,Salnikov,00:03:51.31
+Moscow,1980,400m Freestyle,Women,Swimming,GDR,Diers,00:04:08.76
+Moscow,1980,400m Individual Medley,Men,Swimming,URS,Sidorenko,00:04:22.89
+Moscow,1980,400m Individual Medley,Women,Swimming,GDR,Schneider,00:04:36.29
+Moscow,1980,4x100 Freestyle Relay,Women,Swimming,GDR,,00:03:42.71
+Moscow,1980,4x100m Medley Relay,Women,Swimming,GDR,,00:04:06.67
+Moscow,1980,800m Freestyle,Women,Swimming,AUS,Ford,00:08:28.90
+
+
+Los Angeles,1984,100m Breaststroke,Men,Swimming,USA,Lundquist,00:01:01.65
+Los Angeles,1984,100m Breaststroke,Women,Swimming,NED,Van Staveren,00:01:09.88
+Los Angeles,1984,100m Butterfly,Men,Swimming,FRG,Gross,00:00:53.08
+Los Angeles,1984,100m Freestyle,Men,Swimming,USA,Gaines,00:00:49.80
+Los Angeles,1984,1500m Freestyle,Men,Swimming,USA,O'Brien,00:15:05.20
+Los Angeles,1984,1500m Freestyle,Men,Swimming,USA,Dicarlo,00:15:10.59
+Los Angeles,1984,1500m Freestyle,Men,Swimming,FRG,Pfeiffer,00:15:12.11
+Los Angeles,1984,1500m Freestyle,Men,Swimming,FRG,Henkel,00:15:20.03
+Los Angeles,1984,1500m Freestyle,Men,Swimming,FRA,Lacono,00:15:26.96
+Los Angeles,1984,1500m Freestyle,Men,Swimming,ITA,Grandi,00:15:28.58
+Los Angeles,1984,1500m Freestyle,Men,Swimming,CAN,Shemilt,00:15:31.28
+Los Angeles,1984,1500m Freestyle,Men,Swimming,AUS,Shillington,00:15:38.18
+Los Angeles,1984,200m Backstroke,Men,Swimming,CAN,Davis,00:02:13.34
+Los Angeles,1984,200m Butterfly,Men,Swimming,AUS,Sieben,00:01:57.04
+Los Angeles,1984,200m Butterfly,Women,Swimming,USA,Meagher,00:02:06.90
+Los Angeles,1984,200m Freestyle,Men,Swimming,FRG,Gross,00:01:47.44
+Los Angeles,1984,200m Individual Medley,Men,Swimming,CAN,Baumann,00:02:01.42
+Los Angeles,1984,200m Individual Medley,Women,Swimming,USA,Caulkins,00:02:12.64
+Los Angeles,1984,400m Freestyle,Men,Swimming,USA,Dicarlo,00:03:51.23
+Los Angeles,1984,400m Freestyle,Women,Swimming,USA,Cohen,00:04:07.10
+Los Angeles,1984,400m Individual Medley,Men,Swimming,CAN,Baumann,00:04:17.41
+Los Angeles,1984,4x100 Freestyle Relay,Men,Swimming,USA,,00:03:19.03
+Los Angeles,1984,4x100m Medley Relay,Men,Swimming,USA,,00:03:39.30
+Los Angeles,1984,4x200 Freestyle Relay,Men,Swimming,USA,,00:07:15.69
+Los Angeles,1984,800m Freestyle,Women,Swimming,USA,Cohen,00:08:24.95
+
+
+Seoul,1988,100m Breaststroke,Women,Swimming,BUL,Bogomilova-Dangalakova,00:01:07.95
+Seoul,1988,100m Butterfly,Men,Swimming,SUR,Nesty,00:00:53.00
+Seoul,1988,100m Butterfly,Women,Swimming,GDR,Otto,00:00:59.00
+Seoul,1988,100m Freestyle,Men,Swimming,USA,Biondi,00:00:48.63
+Seoul,1988,1500m Freestyle,Men,Swimming,URS,Salnikov,00:15:00.40
+Seoul,1988,1500m Freestyle,Men,Swimming,FRG,Pfeiffer,00:15:02.69
+Seoul,1988,1500m Freestyle,Men,Swimming,GDR,Dassler,00:15:06.15
+Seoul,1988,1500m Freestyle,Men,Swimming,USA,Catlinski,00:15:06.42
+Seoul,1988,1500m Freestyle,Men,Swimming,POL,Podkoscielny,00:15:14.76
+Seoul,1988,1500m Freestyle,Men,Swimming,FRG,Henkel,00:15:18.19
+Seoul,1988,1500m Freestyle,Men,Swimming,GBR,Boyd,00:15:21.16
+Seoul,1988,1500m Freestyle,Men,Swimming,YUG,Petric,00:15:37.12
+Seoul,1988,200m Backstroke,Women,Swimming,HUN,Egerszegi,00:02:09.29
+Seoul,1988,200m Breaststroke,Women,Swimming,GDR,Hörner,00:02:26.71
+Seoul,1988,200m Butterfly,Men,Swimming,FRG,Gross,00:01:56.94
+Seoul,1988,200m Freestyle,Men,Swimming,AUS,Armstrong,00:01:47.25
+Seoul,1988,200m Freestyle,Women,Swimming,GDR,Friedrich,00:01:57.65
+Seoul,1988,200m Individual Medley,Men,Swimming,HUN,Darnyi,00:02:00.17
+Seoul,1988,200m Individual Medley,Women,Swimming,GDR,Hunger,00:02:12.59
+Seoul,1988,400m Freestyle,Men,Swimming,GDR,Dassler,00:03:46.95
+Seoul,1988,400m Freestyle,Women,Swimming,USA,Evans,00:04:03.85
+Seoul,1988,400m Individual Medley,Men,Swimming,HUN,Darnyi,00:04:14.75
+Seoul,1988,4x100 Freestyle Relay,Men,Swimming,USA,,00:03:16.53
+Seoul,1988,4x100 Freestyle Relay,Women,Swimming,GDR,,00:03:40.63
+Seoul,1988,4x100m Medley Relay,Men,Swimming,USA,,00:03:36.93
+Seoul,1988,4x100m Medley Relay,Women,Swimming,GDR,,00:04:03.74
+Seoul,1988,4x200 Freestyle Relay,Men,Swimming,USA,,00:07:12.51
+Seoul,1988,50m Freestyle,Men,Swimming,USA,Biondi,00:00:22.14
+Seoul,1988,50m Freestyle,Men,Swimming,USA,Jager,00:00:22.36
+Seoul,1988,50m Freestyle,Men,Swimming,URS,Prigoda,00:00:22.71
+Seoul,1988,50m Freestyle,Men,Swimming,SUI,Halsall,00:00:22.83
+Seoul,1988,50m Freestyle,Men,Swimming,SUI,Volery,00:00:22.84
+Seoul,1988,50m Freestyle,Men,Swimming,URS,Tkachenko,00:00:22.88
+Seoul,1988,50m Freestyle,Men,Swimming,FRG,Henter,00:00:23.03
+Seoul,1988,50m Freestyle,Men,Swimming,AUS,Baildon,00:00:23.15
+Seoul,1988,50m Freestyle,Women,Swimming,GDR,Otto,00:00:25.49
+Seoul,1988,50m Freestyle,Women,Swimming,CHN,Yang,00:00:25.64
+Seoul,1988,50m Freestyle,Women,Swimming,GDR,Meissner,00:00:25.71
+Seoul,1988,50m Freestyle,Women,Swimming,USA,Sterkel,00:00:25.71
+Seoul,1988,50m Freestyle,Women,Swimming,USA,Costache,00:00:25.80
+Seoul,1988,50m Freestyle,Women,Swimming,FRA,Plewinski,00:00:25.90
+Seoul,1988,50m Freestyle,Women,Swimming,AUS,Van Wirdum,00:00:26.01
+Seoul,1988,800m Freestyle,Women,Swimming,USA,Evans,00:08:20.20
+
+
+Barcelona,1992,100m Backstroke,Men,Swimming,CAN,Tewksbury,00:00:53.98
+Barcelona,1992,100m Backstroke,Women,Swimming,HUN,Egerszegi,00:01:00.68
+Barcelona,1992,100m Breaststroke,Men,Swimming,USA,Diebel,00:01:01.50
+Barcelona,1992,100m Butterfly,Women,Swimming,CHN,Qian,00:00:58.62
+Barcelona,1992,100m Freestyle,Women,Swimming,CHN,Yong Zhuang,00:00:54.64
+Barcelona,1992,1500m Freestyle,Men,Swimming,AUS,Perkins,00:14:43.48
+Barcelona,1992,1500m Freestyle,Men,Swimming,AUS,Housman,00:14:55.29
+Barcelona,1992,1500m Freestyle,Men,Swimming,GER,Hoffmann,00:15:02.29
+Barcelona,1992,1500m Freestyle,Men,Swimming,GER,Pfeiffer,00:15:04.28
+Barcelona,1992,1500m Freestyle,Men,Swimming,GBR,Wilson,00:15:13.35
+Barcelona,1992,1500m Freestyle,Men,Swimming,SLO,Majcen,00:15:19.12
+Barcelona,1992,1500m Freestyle,Men,Swimming,USA,Frostad,00:15:19.41
+Barcelona,1992,1500m Freestyle,Men,Swimming,EUN,Andreev,00:15:33.94
+Barcelona,1992,200m Backstroke,Men,Swimming,ESP,Zubero,00:01:58.47
+Barcelona,1992,200m Backstroke,Women,Swimming,HUN,Egerszegi,00:02:07.06
+Barcelona,1992,200m Breaststroke,Men,Swimming,USA,Barrowman,00:02:10.16
+Barcelona,1992,200m Breaststroke,Women,Swimming,JPN,Kyoko Iwasaki,00:02:26.65
+Barcelona,1992,200m Butterfly,Men,Swimming,USA,Stewart,00:01:56.26
+Barcelona,1992,200m Freestyle,Men,Swimming,EUN,Sadovy,00:01:46.70
+Barcelona,1992,200m Individual Medley,Women,Swimming,CHN,Li Lin,00:02:11.65
+Barcelona,1992,400m Freestyle,Men,Swimming,EUN,Sadovy,00:03:45.00
+Barcelona,1992,400m Individual Medley,Men,Swimming,HUN,Darnyi,00:04:14.23
+Barcelona,1992,4x100 Freestyle Relay,Men,Swimming,USA,,00:03:39.46
+Barcelona,1992,4x100m Medley Relay,Men,Swimming,USA,,00:03:36.93
+Barcelona,1992,4x100m Medley Relay,Women,Swimming,USA,,00:04:02.54
+Barcelona,1992,4x200 Freestyle Relay,Men,Swimming,UNIFIED TEAM,,00:07:11.95
+Barcelona,1992,50m Freestyle,Men,Swimming,EUN,Popov,00:00:21.91
+Barcelona,1992,50m Freestyle,Men,Swimming,USA,Biondi,00:00:22.09
+Barcelona,1992,50m Freestyle,Men,Swimming,USA,Jager,00:00:22.30
+Barcelona,1992,50m Freestyle,Men,Swimming,FRA,Kalfayan,00:00:22.50
+Barcelona,1992,50m Freestyle,Men,Swimming,RSA,Williams,00:00:22.50
+Barcelona,1992,50m Freestyle,Men,Swimming,GBR,Foster,00:00:22.52
+Barcelona,1992,50m Freestyle,Men,Swimming,EUN,Prigoda,00:00:22.54
+Barcelona,1992,50m Freestyle,Men,Swimming,GER,Rudolph,00:00:22.73
+Barcelona,1992,50m Freestyle,Women,Swimming,CHN,Wenyi Yang,00:00:24.79
+Barcelona,1992,50m Freestyle,Women,Swimming,CHN,Yong Zhuang,00:00:25.08
+Barcelona,1992,50m Freestyle,Women,Swimming,USA,Martino,00:00:25.23
+Barcelona,1992,50m Freestyle,Women,Swimming,FRA,Plewinski,00:00:25.36
+Barcelona,1992,50m Freestyle,Women,Swimming,USA,Thompson,00:00:25.37
+Barcelona,1992,50m Freestyle,Women,Swimming,EUN,Meshcheryakova,00:00:25.47
+Barcelona,1992,50m Freestyle,Women,Swimming,GER,Osygus,00:00:25.74
+Barcelona,1992,50m Freestyle,Women,Swimming,NED,De Bruijn,00:00:25.84
+
+
+Atlanta,1996,100m Butterfly,Men,Swimming,RUS,Pankratov,00:00:52.27
+Atlanta,1996,100m Freestyle,Women,Swimming,CHN,Jingyi Le,00:00:54.50
+Atlanta,1996,200m Breaststroke,Women,Swimming,RSA,Heyns,00:02:25.41
+Atlanta,1996,200m Individual Medley,Men,Swimming,HUN,Czene,00:01:59.91
+Atlanta,1996,4x100 Freestyle Relay,Men,Swimming,USA,,00:03:15.41
+Atlanta,1996,4x100 Freestyle Relay,Women,Swimming,USA,,00:03:39.29
+Atlanta,1996,4x100m Medley Relay,Men,Swimming,USA,,00:03:34.84
+Atlanta,1996,4x200 Freestyle Relay,Women,Swimming,USA,,00:07:59.87
+Atlanta,1996,50m Freestyle,Men,Swimming,RUS,Popov,00:00:22.13
+Atlanta,1996,50m Freestyle,Men,Swimming,USA,Gary Hall Jr,00:00:22.26
+Atlanta,1996,50m Freestyle,Men,Swimming,BRA,Scherer,00:00:22.29
+Atlanta,1996,50m Freestyle,Men,Swimming,CHN,Chengji Jiang,00:00:22.33
+Atlanta,1996,50m Freestyle,Men,Swimming,RSA,Dedekind,00:00:22.59
+Atlanta,1996,50m Freestyle,Men,Swimming,USA,Fox,00:00:22.68
+Atlanta,1996,50m Freestyle,Men,Swimming,VEN,Sanchez,00:00:22.72
+Atlanta,1996,50m Freestyle,Men,Swimming,PUR,Healy,00:00:22.73
+Atlanta,1996,50m Freestyle,Women,Swimming,USA,Van Dyken,00:00:24.87
+Atlanta,1996,50m Freestyle,Women,Swimming,CHN,Jingyi Le,00:00:24.90
+Atlanta,1996,50m Freestyle,Women,Swimming,GER,Voelker,00:00:24.14
+Atlanta,1996,50m Freestyle,Women,Swimming,USA,Martino,00:00:25.31
+Atlanta,1996,50m Freestyle,Women,Swimming,BAR,Martindale,00:00:25.49
+Atlanta,1996,50m Freestyle,Women,Swimming,SWE,Olofsson,00:00:25.63
+Atlanta,1996,50m Freestyle,Women,Swimming,CHN,Ying Shan,00:00:25.70
+Atlanta,1996,50m Freestyle,Women,Swimming,RUS,Meshcheryakova,00:00:25.88
+
+
+Sydney,2000,100m Backstroke,Men,Swimming,USA,Krayzelburg,00:00:53.72
+Sydney,2000,100m Backstroke,Women,Swimming,ROU,Mocanu,00:01:00.21
+Sydney,2000,100m Breaststroke,Men,Swimming,ITA,Fioravanti,00:01:00.46
+Sydney,2000,100m Butterfly,Women,Swimming,NED,De Bruijn,00:00:56.61
+Sydney,2000,200m Backstroke,Men,Swimming,USA,Krayzelburg,00:01:56.76
+Sydney,2000,200m Butterfly,Men,Swimming,USA,Malchow,00:01:55.35
+Sydney,2000,200m Butterfly,Women,Swimming,USA,Hyman,00:02:05.88
+Sydney,2000,200m Freestyle,Men,Swimming,NED,Van Den Hoogenband,00:01:45.35
+Sydney,2000,200m Individual Medley,Men,Swimming,ITA,Rosolino,00:01:58.98
+Sydney,2000,200m Individual Medley,Women,Swimming,UKR,Klochlova,00:02:10.68
+Sydney,2000,200m Individual Medley,Women,Swimming,ROU,Caslaru,00:02:12.57
+Sydney,2000,200m Individual Medley,Women,Swimming,USA,Teuscher,00:02:13.32
+Sydney,2000,200m Individual Medley,Women,Swimming,CAN,Limpert,00:02:13.44
+Sydney,2000,200m Individual Medley,Women,Swimming,CAN,Malar,00:02:13.70
+Sydney,2000,200m Individual Medley,Women,Swimming,RUS,Verevka,00:02:13.88
+Sydney,2000,200m Individual Medley,Women,Swimming,USA,Rose,00:02:14.82
+Sydney,2000,200m Individual Medley,Women,Swimming,JPN,Tomoko Hagiwara,00:02:15.64
+Sydney,2000,400m Freestyle,Men,Swimming,AUS,Thorpe,00:03:40.59
+Sydney,2000,400m Individual Medley,Men,Swimming,USA,Dolan,00:04:11.76
+Sydney,2000,400m Individual Medley,Women,Swimming,UKR,Klochkova,00:04:33.59
+Sydney,2000,4x100 Freestyle Relay,Men,Swimming,AUS,,00:03:13.67
+Sydney,2000,4x100 Freestyle Relay,Women,Swimming,USA,,00:03:26.61
+Sydney,2000,4x100m Medley Relay,Men,Swimming,USA,,00:03:33.73
+Sydney,2000,4x100m Medley Relay,Women,Swimming,USA,,00:03:58.30
+Sydney,2000,4x200 Freestyle Relay,Men,Swimming,AUS,,00:07:07.05
+Sydney,2000,4x200m Freestyle Relay,Women,Swimming,USA,,00:07:57.80
+Sydney,2000,50m Freestyle,Men,Swimming,USA,Gary Hall Jr,00:00:21.98
+Sydney,2000,50m Freestyle,Men,Swimming,USA,Ervin,00:00:21.98
+Sydney,2000,50m Freestyle,Men,Swimming,NED,Van Den Hoogenband,00:00:22.03
+Sydney,2000,50m Freestyle,Men,Swimming,ITA,Vismara,00:00:22.11
+Sydney,2000,50m Freestyle,Men,Swimming,POL,Kizierowski,00:00:22.22
+Sydney,2000,50m Freestyle,Men,Swimming,RUS,Popov,00:00:22.24
+Sydney,2000,50m Freestyle,Men,Swimming,GBR,Foster,00:00:22.41
+Sydney,2000,50m Freestyle,Men,Swimming,UKR,Volynets,00:00:22.51
+Sydney,2000,50m Freestyle,Women,Swimming,NED,De Bruijn,00:00:24.32
+Sydney,2000,50m Freestyle,Women,Swimming,SWE,Alshammar,00:00:24.51
+Sydney,2000,50m Freestyle,Women,Swimming,USA,Torres,00:00:24.63
+Sydney,2000,50m Freestyle,Women,Swimming,USA,Van Dyken,00:00:25.04
+Sydney,2000,50m Freestyle,Women,Swimming,SVK,Moravcova,00:00:25.24
+Sydney,2000,50m Freestyle,Women,Swimming,GER,Voelker,00:00:25.27
+Sydney,2000,50m Freestyle,Women,Swimming,GBR,Sheppard,00:00:25.45
+Sydney,2000,50m Freestyle,Women,Swimming,JPN,Sumika Minamoto,00:00:25.65
+Sydney,2000,800m Freestyle,Women,Swimming,USA,Bennett,00:08:19.67
+
+
+Athens,2004,100m Backstroke,Women,Swimming,USA,Coughlin,00:01:00.37
+Athens,2004,100m Breaststroke,Women,Swimming,CHN,Xuejuan Luo,00:01:06.64
+Athens,2004,100m Butterfly,Men,Swimming,USA,Phelps,00:00:51.25
+Athens,2004,1500m Freestyle,Men,Swimming,AUS,Hackett,00:14:43.40
+Athens,2004,200m Backstroke,Men,Swimming,USA,Peirsol,00:01:54.95
+Athens,2004,200m Breaststroke,Men,Swimming,JPN,Kosuke Kitajima,00:02:09.44
+Athens,2004,200m Breaststroke,Women,Swimming,USA,Beard,00:02:23.37
+Athens,2004,200m Butterfly,Men,Swimming,USA,Phelps,00:01:54.04
+Athens,2004,200m Freestyle,Men,Swimming,AUS,Thorpe,00:01:44.71
+Athens,2004,200m Individual Medley,Men,Swimming,USA,Phelps,00:01:57.14
+Athens,2004,400m Individual Medley,Men,Swimming,USA,Phelps,00:04:08.26
+Athens,2004,4x100m Freestyle Relay,Men,Swimming,RSA,,00:03:13.17
+Athens,2004,4x100m Freestyle Relay,Women,Swimming,AUS,,00:03:35.94
+Athens,2004,4x100m Medley Relay,Men,Swimming,USA,,00:03:30.68
+Athens,2004,4x100m Medley Relay,Women,Swimming,AUS,,00:03:57.32
+Athens,2004,4x200m Freestyle Relay,Women,Swimming,USA,,00:07:53.42
+Athens,2004,50m Freestyle,Men,Swimming,USA,Gary Hall Jr,00:00:21.93
+Athens,2004,50m Freestyle,Men,Swimming,CRO,Draganja,00:00:21.94
+Athens,2004,50m Freestyle,Men,Swimming,RSA,Schoeman,00:00:22.02
+Athens,2004,50m Freestyle,Men,Swimming,SWE,Nystrand,00:00:22.08
+Athens,2004,50m Freestyle,Men,Swimming,USA,Lezak,00:00:22.11
+Athens,2004,50m Freestyle,Men,Swimming,AUS,Hawke,00:00:22.18
+Athens,2004,50m Freestyle,Men,Swimming,UKR,Volynets,00:00:22.26
+Athens,2004,50m Freestyle,Men,Swimming,ALG,Iles,00:00:22.37
+Athens,2004,50m Freestyle,Women,Swimming,NED,De Bruijn,00:00:24.58
+Athens,2004,50m Freestyle,Women,Swimming,FRA,Metella,00:00:24.89
+Athens,2004,50m Freestyle,Women,Swimming,AUS,Trickett,00:00:24.91
+Athens,2004,50m Freestyle,Women,Swimming,SWE,Alshammar,00:00:24.93
+Athens,2004,50m Freestyle,Women,Swimming,USA,Joyce,00:00:25.00
+Athens,2004,50m Freestyle,Women,Swimming,AUS,Engelsman,00:00:25.06
+Athens,2004,50m Freestyle,Women,Swimming,USA,Thompson,00:00:25.11
+Athens,2004,50m Freestyle,Women,Swimming,BRA,Cazziolato,00:00:25.20
+
+
+Beijing,2008,100m Backstroke,Men,Swimming,USA,Peirsol,00:00:52.54
+Beijing,2008,100m Breaststroke,Men,Swimming,JPN,Kosuke Kitajima,00:00:58.91
+Beijing,2008,100m Breaststroke,Women,Swimming,AUS,Jones,00:01:05.17
+Beijing,2008,100m Butterfly,Men,Swimming,USA,Phelps,00:00:50.58
+Beijing,2008,100m Freestyle,Women,Swimming,GER,Steffen,00:00:53.12
+Beijing,2008,200m Backstroke,Men,Swimming,USA,Lochte,00:01:53.94
+Beijing,2008,200m Backstroke,Women,Swimming,ZIM,Coventry,00:02:05.24
+Beijing,2008,200m Breaststroke,Men,Swimming,JPN,Kosuke Kitajima,00:02:07.64
+Beijing,2008,200m Breaststroke,Women,Swimming,USA,Soni,00:02:20.22
+Beijing,2008,200m Butterfly,Men,Swimming,USA,Phelps,00:01:52.03
+Beijing,2008,200m Butterfly,Women,Swimming,CHN,Zige Liu,00:02:04.18
+Beijing,2008,200m Freestyle,Men,Swimming,USA,Phelps,00:01:42.96
+Beijing,2008,200m Freestyle,Women,Swimming,ITA,Pellegrini,00:01:54.82
+Beijing,2008,200m Individual Medley,Men,Swimming,USA,Phelps,00:01:54.23
+Beijing,2008,200m Individual Medley,Women,Swimming,AUS,Rice,00:02:08.45
+Beijing,2008,400m Individual Medley,Men,Swimming,USA,Phelps,00:04:03.84
+Beijing,2008,400m Individual Medley,Women,Swimming,AUS,Rice,00:04:29.45
+Beijing,2008,4x100m Freestyle Relay,Men,Swimming,USA,,00:03:08.24
+Beijing,2008,4x100m Freestyle Relay,Women,Swimming,NED,,00:03:33.76
+Beijing,2008,4x100m Medley Relay,Men,Swimming,USA,,00:03:29.34
+Beijing,2008,4x100m Medley Relay,Women,Swimming,AUS,,00:03:52.69
+Beijing,2008,4x200m Freestyle Relay,Men,Swimming,USA,,00:06:58.56
+Beijing,2008,4x200m Freestyle Relay,Women,Swimming,AUS,,00:07:44.31
+Beijing,2008,50m Freestyle,Men,Swimming,BRA,Filho,00:00:21.30
+Beijing,2008,50m Freestyle,Men,Swimming,FRA,Leveaux,00:00:21.45
+Beijing,2008,50m Freestyle,Men,Swimming,FRA,Bernard,00:00:21.49
+Beijing,2008,50m Freestyle,Men,Swimming,AUS,Callus,00:00:21.62
+Beijing,2008,50m Freestyle,Men,Swimming,USA,Wildman-Tobriner,00:00:21.64
+Beijing,2008,50m Freestyle,Men,Swimming,AUS,Sullivan,00:00:21.65
+Beijing,2008,50m Freestyle,Men,Swimming,RSA,Schoeman,00:00:21.67
+Beijing,2008,50m Freestyle,Men,Swimming,SWE,Nystrand,00:00:21.72
+Beijing,2008,50m Freestyle,Women,Swimming,GER,Steffen,00:00:24.06
+Beijing,2008,50m Freestyle,Women,Swimming,USA,Torres,00:00:24.07
+Beijing,2008,50m Freestyle,Women,Swimming,AUS,Trickett,00:00:24.17
+Beijing,2008,50m Freestyle,Women,Swimming,NED,Veldhuis,00:00:24.26
+Beijing,2008,50m Freestyle,Women,Swimming,USA,Joyce,00:00:24.63
+Beijing,2008,50m Freestyle,Women,Swimming,NED,Schreuder,00:00:24.65
+Beijing,2008,50m Freestyle,Women,Swimming,BLR,Herasimenia,00:00:24.77
+Beijing,2008,800m Freestyle,Women,Swimming,GBR,Adlington,00:08:14.10
+
+
+London,2012,100m Backstroke,Men,Swimming,USA,Grevers,00:00:52.16
+London,2012,100m Breaststroke,Men,Swimming,RSA,Van Der Burgh,00:00:58.46
+London,2012,100m Freestyle,Women,Swimming,NED,Kromowidjojo,00:00:53.00
+London,2012,1500m Freestyle,Men,Swimming,CHN,Yang Sun,00:14:31.02
+London,2012,200m Backstroke,Men,Swimming,USA,Clary,00:01:53.41
+London,2012,200m Breaststroke,Men,Swimming,HUN,Gyurta,00:02:07.28
+London,2012,200m Butterfly,Women,Swimming,CHN,Liuyang Jiao,00:02:04.06
+London,2012,200m Freestyle,Women,Swimming,USA,Schmitt,00:01:53.61
+London,2012,200m Individual Medley,Women,Swimming,CHN,Shiwen Ye,00:02:07.57
+London,2012,400m Freestyle,Men,Swimming,CHN,Yang Sun,00:03:40.14
+London,2012,400m Freestyle,Women,Swimming,FRA,Muffat,00:04:01.45
+London,2012,400m Individual Medley,Women,Swimming,CHN,Shiwen Ye,00:04:28.43
+London,2012,4x100m Freestyle Relay,Women,Swimming,AUS,,00:03:33.15
+London,2012,4x200m Freestyle Relay,Women,Swimming,USA,,00:07:42.92
+London,2012,50m Freestyle,Men,Swimming,FRA,Manaudou,00:00:21.34
+London,2012,50m Freestyle,Men,Swimming,USA,Jones,00:00:21.54
+London,2012,50m Freestyle,Men,Swimming,BRA,Filho,00:00:21.59
+London,2012,50m Freestyle,Men,Swimming,BRA,Fratus,00:00:21.61
+London,2012,50m Freestyle,Men,Swimming,USA,Ervin,00:00:27.78
+London,2012,50m Freestyle,Men,Swimming,RSA,Schoeman,00:00:21.80
+London,2012,50m Freestyle,Men,Swimming,TTO,Bovell,00:00:21.82
+London,2012,50m Freestyle,Men,Swimming,AUS,Sullivan,00:00:21.98
+London,2012,50m Freestyle,Women,Swimming,NED,Kromowidjojo,00:00:24.05
+London,2012,50m Freestyle,Women,Swimming,BLR,Herasimenia,00:00:24.28
+London,2012,50m Freestyle,Women,Swimming,NED,Velhuis,00:00:24.39
+London,2012,50m Freestyle,Women,Swimming,GER,Steffen,00:00:24.46
+London,2012,50m Freestyle,Women,Swimming,GBR,Halsall,00:00:24.47
+London,2012,50m Freestyle,Women,Swimming,SWE,Alshammar,00:00:24.61
+London,2012,50m Freestyle,Women,Swimming,USA,Hardy,00:00:24.62
+London,2012,50m Freestyle,Women,Swimming,BAH,Vanderpool-Wallace,00:00:24.69
+
+
+Rio,2016,100m Backstroke,Men,Swimming,USA,Murphy,00:00:51.97
+Rio,2016,100m Breaststroke,Men,Swimming,GBR,Peaty,00:00:57.13
+Rio,2016,100m Breaststroke,Women,Swimming,USA,King,00:01:04.93
+Rio,2016,100m Butterfly,Men,Swimming,SGP,Schooling,00:00:50.39
+Rio,2016,100m Butterfly,Women,Swimming,SWE,Sjoestroem,00:00:55.48
+Rio,2016,100m Freestyle,Women,Swimming,USA,Manuel,00:00:52.70
+Rio,2016,100m Freestyle,Women,Swimming,CAN,Oleksiak,00:00:52.70
+Rio,2016,200m Individual Medley,Women,Swimming,HUN,Hosszu,00:02:06.58
+Rio,2016,400m Freestyle,Women,Swimming,USA,Ledecky,00:03:56.46
+Rio,2016,400m Individual Medley,Women,Swimming,HUN,Hosszu,00:04:26.36
+Rio,2016,4x100m Freestyle Relay,Women,Swimming,AUS,,00:03:30.65
+Rio,2016,4x100m Medley Relay,Men,Swimming,USA,,00:03:27.95
+Rio,2016,50m Freestyle,Men,Swimming,USA,Ervin,00:00:21.40
+Rio,2016,50m Freestyle,Men,Swimming,FRA,Manaudou,00:00:21.41
+Rio,2016,50m Freestyle,Men,Swimming,USA,Adrian,00:00:21.49
+Rio,2016,50m Freestyle,Men,Swimming,GBR,Proud,00:00:21.68
+Rio,2016,50m Freestyle,Men,Swimming,UKR,Hovorov,00:00:21.74
+Rio,2016,50m Freestyle,Men,Swimming,BRA,Fratus,00:00:21.79
+Rio,2016,50m Freestyle,Men,Swimming,RSA,Tandy,00:00:21.79
+Rio,2016,50m Freestyle,Men,Swimming,LTU,Bilis,00:00:22.08
+Rio,2016,50m Freestyle,Women,Swimming,DEN,Blume,00:00:24.07
+Rio,2016,50m Freestyle,Women,Swimming,USA,Manuel,00:00:24.09
+Rio,2016,50m Freestyle,Women,Swimming,BLR,Herasimenia,00:00:24.11
+Rio,2016,50m Freestyle,Women,Swimming,GBR,Halsall,00:00:24.13
+Rio,2016,50m Freestyle,Women,Swimming,AUS,Cate Campbell,00:00:24.15
+Rio,2016,50m Freestyle,Women,Swimming,NED,Kromonowidjojo,00:00:24.19
+Rio,2016,50m Freestyle,Women,Swimming,AUS,Bronte Campbell,00:00:24.42
+Rio,2016,50m Freestyle,Women,Swimming,BRA,Medeiros,00:00:24.69
+Rio,2016,800m Freestyle,Women,Swimming,USA,Ledecky,00:08:04.79
+
+
+Tokyo,2020,100m Backstroke,Men,Swimming,ROC,Rylov,00:00:51.98
+Tokyo,2020,100m Backstroke,Men,Swimming,ROC,Kolesnikov,00:00:52.00
+Tokyo,2020,100m Backstroke,Men,Swimming,USA,Murphy,00:00:52.19
+Tokyo,2020,100m Backstroke,Men,Swimming,ITA,Ceccon,00:00:52.30
+Tokyo,2020,100m Backstroke,Men,Swimming,CHN,Jiayu Xu,00:00:52.51
+Tokyo,2020,100m Backstroke,Men,Swimming,ESP,Gonzalez De Oliveira,00:00:52.78
+Tokyo,2020,100m Backstroke,Men,Swimming,AUS,Larkin,00:00:52.79
+Tokyo,2020,100m Backstroke,Men,Swimming,ROU,Glinta,00:00:52.95
+Tokyo,2020,100m Breaststroke,Men,Swimming,GBR,Peaty,00:00:57.37
+Tokyo,2020,100m Breaststroke,Men,Swimming,NED,Kamminga,00:00:58.00
+Tokyo,2020,100m Breaststroke,Men,Swimming,ITA,Martinenghi,00:00:58.33
+Tokyo,2020,100m Breaststroke,Men,Swimming,USA,Andrew,00:00:58.84
+Tokyo,2020,100m Breaststroke,Men,Swimming,GBR,Wilby,00:00:58.96
+Tokyo,2020,100m Breaststroke,Men,Swimming,CHN,Zibei Yan,00:00:58.99
+Tokyo,2020,100m Breaststroke,Men,Swimming,USA,Wilson,00:00:58.99
+Tokyo,2020,100m Breaststroke,Men,Swimming,BLR,Shymanovich,00:00:59.36
+Tokyo,2020,100m Butterfly,Men,Swimming,USA,Dressel,00:00:49.45
+Tokyo,2020,100m Butterfly,Men,Swimming,HUN,Milak,00:00:49.68
+Tokyo,2020,100m Butterfly,Men,Swimming,SUI,Ponti,00:00:50.74
+Tokyo,2020,100m Butterfly,Men,Swimming,ROC,Minakov,00:00:50.88
+Tokyo,2020,100m Butterfly,Men,Swimming,POL,Majerski,00:00:50.92
+Tokyo,2020,100m Butterfly,Men,Swimming,AUS,Temple,00:00:50.92
+Tokyo,2020,100m Butterfly,Men,Swimming,GUA,Martinez,00:00:51.09
+Tokyo,2020,100m Butterfly,Men,Swimming,BUL,Miladinov,00:00:51.49
+Tokyo,2020,100m Freestyle,Men,Swimming,USA,Dressel,00:00:47.02
+Tokyo,2020,100m Freestyle,Men,Swimming,AUS,Chalmers,00:00:47.08
+Tokyo,2020,100m Freestyle,Men,Swimming,ROC,Kolesnikov,00:00:47.44
+Tokyo,2020,100m Freestyle,Men,Swimming,FRA,Grousset,00:00:47.72
+Tokyo,2020,100m Freestyle,Men,Swimming,KOR,Sunwoo Hwang,00:00:47.82
+Tokyo,2020,100m Freestyle,Men,Swimming,ITA,Miressi,00:00:47.86
+Tokyo,2020,100m Freestyle,Men,Swimming,ROU,Popovici,00:00:48.04
+Tokyo,2020,100m Freestyle,Men,Swimming,HUN,Nemeth,00:00:48.10
+Tokyo,2020,1500m Freestyle,Men,Swimming,USA,Finke,00:14:39.65
+Tokyo,2020,1500m Freestyle,Men,Swimming,UKR,Romanchuk,00:14:40.66
+Tokyo,2020,1500m Freestyle,Men,Swimming,GER,Wellbrock,00:14:40.91
+Tokyo,2020,1500m Freestyle,Men,Swimming,ITA,Paltrinieri,00::14:45.45
+Tokyo,2020,1500m Freestyle,Men,Swimming,GBR,Jervis,00:14:55.48
+Tokyo,2020,1500m Freestyle,Men,Swimming,ROC,Martynychev,00:14:55.85
+Tokyo,2020,1500m Freestyle,Men,Swimming,AUT,Auboeck,00:15:03.47
+Tokyo,2020,1500m Freestyle,Men,Swimming,UKR,Frolov,00:15:04.26
+Tokyo,2020,200m Backstroke,Men,Swimming,ROC,Rylov,00:01:53.27
+Tokyo,2020,200m Backstroke,Men,Swimming,USA,Murphy,00:01:54.15
+Tokyo,2020,200m Backstroke,Men,Swimming,GBR,Greenbank,00:01:54.72
+Tokyo,2020,200m Backstroke,Men,Swimming,USA,Mefford,00:01:55.49
+Tokyo,2020,200m Backstroke,Men,Swimming,HUN,Telegdy,00:01:56.15
+Tokyo,2020,200m Backstroke,Men,Swimming,POL,Kawecki,00:01:56.39
+Tokyo,2020,200m Backstroke,Men,Swimming,JPN,Ryosuke Irie,00:01:57.32
+Tokyo,2020,200m Backstroke,Men,Swimming,ESP,Saiz,00:01:59.06
+Tokyo,2020,200m Breaststroke,Men,Swimming,AUS,Stubblety-Cook,00:02:06.38
+Tokyo,2020,200m Breaststroke,Men,Swimming,NED,Kamminga,00:02:07.01
+Tokyo,2020,200m Breaststroke,Men,Swimming,FIN,Mattsson,00:02:07.13
+Tokyo,2020,200m Breaststroke,Men,Swimming,ROC,Chupkov,00:02:07.24
+Tokyo,2020,200m Breaststroke,Men,Swimming,USA,Fink,00:02:07.93
+Tokyo,2020,200m Breaststroke,Men,Swimming,GBR,Wilby,00:02:08.19
+Tokyo,2020,200m Breaststroke,Men,Swimming,JPN,Ryuya Mura,00:02:08.42
+Tokyo,2020,200m Breaststroke,Men,Swimming,SWE,Persson,00:02:08.88
+Tokyo,2020,200m Butterfly,Men,Swimming,HUN,Milak,00:01:51.25
+Tokyo,2020,200m Butterfly,Men,Swimming,JPN,Tomoru Honda,00:01:53.73
+Tokyo,2020,200m Butterfly,Men,Swimming,ITA,Burdisso,00:01:54.45
+Tokyo,2020,200m Butterfly,Men,Swimming,HUN,Kenderesi,00:01:54.52
+Tokyo,2020,200m Butterfly,Men,Swimming,RSA,Le Clos,00:01:54.93
+Tokyo,2020,200m Butterfly,Men,Swimming,BRA,De Deus,00:01:55.19
+Tokyo,2020,200m Butterfly,Men,Swimming,USA,Bentz,00:01:55.46
+Tokyo,2020,200m Butterfly,Men,Swimming,POL,Chmielewski,00:01:55.88
+Tokyo,2020,200m Freestyle,Men,Swimming,GBR,Dean,00:01:44.22
+Tokyo,2020,200m Freestyle,Men,Swimming,GBR,Scott,00:01:44.26
+Tokyo,2020,200m Freestyle,Men,Swimming,BRA,Scheffer,00:01:44.66
+Tokyo,2020,200m Freestyle,Men,Swimming,ROU,Popovici,00:01:44.68
+Tokyo,2020,200m Freestyle,Men,Swimming,ROC,Malyutin,00:01:45.01
+Tokyo,2020,200m Freestyle,Men,Swimming,USA,Smith,00:01:45.12
+Tokyo,2020,200m Freestyle,Men,Swimming,KOR,Sunwoo Hwang,00:01:45.26
+Tokyo,2020,200m Freestyle,Men,Swimming,LTU,Rapsys,00:01:45.78
+Tokyo,2020,200m Individual Medley,Men,Swimming,CHN,Shun Wang,00:01:55.00
+Tokyo,2020,200m Individual Medley,Men,Swimming,GBR,Scott,00:01:55.28
+Tokyo,2020,200m Individual Medley,Men,Swimming,SUI,Desplanches,00:01:56.17
+Tokyo,2020,200m Individual Medley,Men,Swimming,JPN,Daiya Seto,00:01:56.22
+Tokyo,2020,200m Individual Medley,Men,Swimming,USA,Andrew,00:01:57.31
+Tokyo,2020,200m Individual Medley,Men,Swimming,JPN,Kosuke Hagino,00:01:57.49
+Tokyo,2020,200m Individual Medley,Men,Swimming,HUN,Cseh,00:01:57.68
+Tokyo,2020,200m Individual Medley,Men,Swimming,NZL,Clareburt,00:01:57.70
+Tokyo,2020,4x100m Freestyle Relay,Men,Swimming,USA,,00:03:08.97
+Tokyo,2020,4x100m Freestyle Relay,Men,Swimming,ITA,,00:03:10.11
+Tokyo,2020,4x100m Freestyle Relay,Men,Swimming,AUS,,00:03:10.22
+Tokyo,2020,4x100m Freestyle Relay,Men,Swimming,CAN,,00:03:10.82
+Tokyo,2020,4x100m Freestyle Relay,Men,Swimming,HUN,,00:03:11.06
+Tokyo,2020,4x100m Freestyle Relay,Men,Swimming,FRA,,00:03:11.09
+Tokyo,2020,4x100m Freestyle Relay,Men,Swimming,ROC,,00:03:12.20
+Tokyo,2020,4x100m Freestyle Relay,Men,Swimming,BRA,,00:03:13.41
+Tokyo,2020,4x100m Medley Relay,Men,Swimming,USA,,00:03:26.78
+Tokyo,2020,4x100m Medley Relay,Men,Swimming,GBR,,00:03:27.51
+Tokyo,2020,4x100m Medley Relay,Men,Swimming,ITA,,00:03:29.17
+Tokyo,2020,4x100m Medley Relay,Men,Swimming,ROC,,00:03:29.22
+Tokyo,2020,4x100m Medley Relay,Men,Swimming,AUS,,00:03:29.60
+Tokyo,2020,4x100m Medley Relay,Men,Swimming,JPN,,00:03:29.91
+Tokyo,2020,4x100m Medley Relay,Men,Swimming,CAN,,00:03:32.42
+Tokyo,2020,4x200m Freestyle Relay,Men,Swimming,GBR,,00:06:58.58
+Tokyo,2020,4x200m Freestyle Relay,Men,Swimming,ROC,,00:07:01.81
+Tokyo,2020,4x200m Freestyle Relay,Men,Swimming,AUS,,00:07:01.84
+Tokyo,2020,4x200m Freestyle Relay,Men,Swimming,USA,,00:07:02.43
+Tokyo,2020,4x200m Freestyle Relay,Men,Swimming,ITA,,00:07:03.24
+Tokyo,2020,4x200m Freestyle Relay,Men,Swimming,SUI,,00:07:06.12
+Tokyo,2020,4x200m Freestyle Relay,Men,Swimming,GER,,00:07:06.51
+Tokyo,2020,4x200m Freestyle Relay,Men,Swimming,BRA,,00:07:08.22
+Tokyo,2020,400m Freestyle,Men,Swimming,TUN,Hafnaoui,00:03:43.36
+Tokyo,2020,400m Freestyle,Men,Swimming,AUS,Mcloughlin,00:03:43.52
+Tokyo,2020,400m Freestyle,Men,Swimming,USA,Smith,00:03:43.94
+Tokyo,2020,400m Freestyle,Men,Swimming,GER,Muhlleitner,00:03:44.07
+Tokyo,2020,400m Freestyle,Men,Swimming,AUT,Auboeck,00:03:44.07
+Tokyo,2020,400m Freestyle,Men,Swimming,ITA,Detti,00:03:44.88
+Tokyo,2020,400m Freestyle,Men,Swimming,AUS,Winnington,00:03:45.20
+Tokyo,2020,400m Freestyle,Men,Swimming,USA,Mitchell,00:03:45.39
+Tokyo,2020,400m Individual Medley,Men,Swimming,USA,Kalisz,00:04:09.42
+Tokyo,2020,400m Individual Medley,Men,Swimming,USA,Litherland,00:04:10.28
+Tokyo,2020,400m Individual Medley,Men,Swimming,AUS,Smith,00:04:10.38
+Tokyo,2020,400m Individual Medley,Men,Swimming,HUN,Verraszto,00:04:10.59
+Tokyo,2020,400m Individual Medley,Men,Swimming,GBR,Litchfield,00:04:10.59
+Tokyo,2020,400m Individual Medley,Men,Swimming,FRA,Marchand,00:04:11.16
+Tokyo,2020,400m Individual Medley,Men,Swimming,NZL,Clareburt,00:04:11.22
+Tokyo,2020,400m Individual Medley,Men,Swimming,ITA,Razzetti,00:04:11.32
+Tokyo,2020,50m Freestyle,Men,Swimming,USA,Dressel,00:00:21.07
+Tokyo,2020,50m Freestyle,Men,Swimming,FRA,Manaudou,00:00:21.55
+Tokyo,2020,50m Freestyle,Men,Swimming,BRA,Fratus,00:00:21.57
+Tokyo,2020,50m Freestyle,Men,Swimming,USA,Andrew,00:00:21.60
+Tokyo,2020,50m Freestyle,Men,Swimming,GBR,Proud,00:00:21.72
+Tokyo,2020,50m Freestyle,Men,Swimming,GRE,Gkolomeev,00:00:21.72
+Tokyo,2020,50m Freestyle,Men,Swimming,ITA,Zazzeri,00:00:21.78
+Tokyo,2020,50m Freestyle,Men,Swimming,NED,De Boer,00:00:21.79
+Tokyo,2020,800m Freestyle,Men,Swimming,USA,Finke,00:07:41.87
+Tokyo,2020,800m Freestyle,Men,Swimming,ITA,Paltrinieri,00:07:42.11
+Tokyo,2020,800m Freestyle,Men,Swimming,UKR,Romanchuk,00:07:42.33
+Tokyo,2020,800m Freestyle,Men,Swimming,GER,Wellbrock,00:07:42.68
+Tokyo,2020,800m Freestyle,Men,Swimming,AUS,Mcloughlin,00:07:45.00
+Tokyo,2020,800m Freestyle,Men,Swimming,UKR,Frolov,00:07:45.11
+Tokyo,2020,800m Freestyle,Men,Swimming,AUT,Auboeck,00:07:49.14
+Tokyo,2020,800m Freestyle,Men,Swimming,BRA,Costa,00:07:53.31
+Tokyo,2020,4x100m Mixed Medley Relay,NA,Swimming,GBR,,00:03:37.58
+Tokyo,2020,4x100m Mixed Medley Relay,NA,Swimming,CHN,,00:03:38.86
+Tokyo,2020,4x100m Mixed Medley Relay,NA,Swimming,AUS,,00:03:38.95
+Tokyo,2020,4x100m Mixed Medley Relay,NA,Swimming,ITA,,00:03:39.28
+Tokyo,2020,4x100m Mixed Medley Relay,NA,Swimming,USA,,00:03:40.58
+Tokyo,2020,4x100m Mixed Medley Relay,NA,Swimming,NED,,00:03:41.25
+Tokyo,2020,4x100m Mixed Medley Relay,NA,Swimming,ROC,,00:03:42.45
+Tokyo,2020,4x100m Mixed Medley Relay,NA,Swimming,ISR,,00:03:44.77
+Tokyo,2020,100m Backstroke,Women,Swimming,AUS,Mckeown,00:00:57.47
+Tokyo,2020,100m Backstroke,Women,Swimming,CAN,Masse,00:00:57.72
+Tokyo,2020,100m Backstroke,Women,Swimming,USA,Smith,00:00:58.05
+Tokyo,2020,100m Backstroke,Women,Swimming,USA,White,00:00:58.43
+Tokyo,2020,100m Backstroke,Women,Swimming,AUS,Seebohm,00:00:58.45
+Tokyo,2020,100m Backstroke,Women,Swimming,GBR,Dawson,00:00:58.70
+Tokyo,2020,100m Backstroke,Women,Swimming,NED,Toussaint,00:00:59.11
+Tokyo,2020,100m Backstroke,Women,Swimming,ISR,Gorbenko,00:00:59.53
+Tokyo,2020,100m Breaststroke,Women,Swimming,USA,Jacoby,00:01:04.95
+Tokyo,2020,100m Breaststroke,Women,Swimming,RSA,Schoenmaker,00:01:05.22
+Tokyo,2020,100m Breaststroke,Women,Swimming,USA,King,00:01:05.54
+Tokyo,2020,100m Breaststroke,Women,Swimming,ROC,Chikunova,00:01:05.90
+Tokyo,2020,100m Breaststroke,Women,Swimming,ROC,Efimova,00:01:06.02
+Tokyo,2020,100m Breaststroke,Women,Swimming,SWE,Hansson,00:01:06.07
+Tokyo,2020,100m Breaststroke,Women,Swimming,ITA,Carraro,00:01:06.19
+Tokyo,2020,100m Breaststroke,Women,Swimming,IRL,Mc Sharry,00:01:06.94
+Tokyo,2020,100m Butterfly,Women,Swimming,CAN,Mac Neil,00:00:55.59
+Tokyo,2020,100m Butterfly,Women,Swimming,CHN,Yufei Zhang,00:00:55.64
+Tokyo,2020,100m Butterfly,Women,Swimming,AUS,Mckeon,00:00:55.72
+Tokyo,2020,100m Butterfly,Women,Swimming,USA,Huske,00:00:55.73
+Tokyo,2020,100m Butterfly,Women,Swimming,SWE,Hansson,00:00:56.22
+Tokyo,2020,100m Butterfly,Women,Swimming,FRA,Wattel,00:00:56.27
+Tokyo,2020,100m Butterfly,Women,Swimming,SWE,Sjoestroem,00:00:56.91
+Tokyo,2020,100m Butterfly,Women,Swimming,BLR,Shkurdai,00:00:57.05
+Tokyo,2020,100m Freestyle,Women,Swimming,AUS,Mckeon,00:00:51.96
+Tokyo,2020,100m Freestyle,Women,Swimming,HKG,Haughey,00:00:52.27
+Tokyo,2020,100m Freestyle,Women,Swimming,AUS,Campbell,00:00:52.52
+Tokyo,2020,100m Freestyle,Women,Swimming,CAN,Oleksiak,00:00:52.59
+Tokyo,2020,100m Freestyle,Women,Swimming,SWE,Sjoestroem,00:00:52.68
+Tokyo,2020,100m Freestyle,Women,Swimming,NED,Heemskerk,00:00:52.79
+Tokyo,2020,100m Freestyle,Women,Swimming,USA,Weitzeil,00:00:53.23
+Tokyo,2020,1500m Freestyle,Women,Swimming,USA,Ledecky,00:15:37.34
+Tokyo,2020,1500m Freestyle,Women,Swimming,USA,Sullivan,00:15:41.41
+Tokyo,2020,1500m Freestyle,Women,Swimming,GER,Kohler,00:15:42.91
+Tokyo,2020,1500m Freestyle,Women,Swimming,CHN,Jianjiahe Wang,00:15:46.37
+Tokyo,2020,1500m Freestyle,Women,Swimming,ITA,Quadarella,00:15:53.97
+Tokyo,2020,1500m Freestyle,Women,Swimming,AUS,Melverton,00:16:00.36
+Tokyo,2020,1500m Freestyle,Women,Swimming,ROC,Kirpichnikova,00:16:00.38
+Tokyo,2020,1500m Freestyle,Women,Swimming,AUS,Gough,00:16:05.81
+Tokyo,2020,200m Backstroke,Women,Swimming,AUS,Mckeown,00:02:04.68
+Tokyo,2020,200m Backstroke,Women,Swimming,CAN,Masse,00:02:05.42
+Tokyo,2020,200m Backstroke,Women,Swimming,AUS,Seebohm,00:02:06.17
+Tokyo,2020,200m Backstroke,Women,Swimming,USA,White,00:02:06.39
+Tokyo,2020,200m Backstroke,Women,Swimming,USA,Bacon,00:02:06.40
+Tokyo,2020,200m Backstroke,Women,Swimming,CAN,Ruck,00:02:08.24
+Tokyo,2020,200m Backstroke,Women,Swimming,CHN,Xuwei Peng,00:02:08.26
+Tokyo,2020,200m Backstroke,Women,Swimming,CHN,Yaxin Liu,00:02:08.48
+Tokyo,2020,200m Breaststroke,Women,Swimming,RSA,Schoenmaker,00:02:18.95
+Tokyo,2020,200m Breaststroke,Women,Swimming,USA,King,00:02:19.92
+Tokyo,2020,200m Breaststroke,Women,Swimming,USA,Lazor,00:02:20.84
+Tokyo,2020,200m Breaststroke,Women,Swimming,ROC,Chikunova,00:02:20.88
+Tokyo,2020,200m Breaststroke,Women,Swimming,RSA,Corbett,00:02:22.06
+Tokyo,2020,200m Breaststroke,Women,Swimming,GBR,Renshaw,00:02:22.65
+Tokyo,2020,200m Breaststroke,Women,Swimming,GBR,Wood,00:02:23.72
+Tokyo,2020,200m Breaststroke,Women,Swimming,BEL,Lecluyse,00:02:24.57
+Tokyo,2020,200m Butterfly,Women,Swimming,CHN,Yufei Zhang,00:02:03.86
+Tokyo,2020,200m Butterfly,Women,Swimming,USA,Smith,00:02:05.30
+Tokyo,2020,200m Butterfly,Women,Swimming,USA,Flickinger,00:02:05.65
+Tokyo,2020,200m Butterfly,Women,Swimming,HUN,Kapas,00:02:06.53
+Tokyo,2020,200m Butterfly,Women,Swimming,ROC,Chimrova,00:02:07.70
+Tokyo,2020,200m Butterfly,Women,Swimming,CHN,Liyan Yu,00:02:07.85
+Tokyo,2020,200m Butterfly,Women,Swimming,GBR,Thomas,00:02:07.90
+Tokyo,2020,200m Butterfly,Women,Swimming,AUS,Throssell,00:02:09.48
+Tokyo,2020,200m Freestyle,Women,Swimming,AUS,Titmus,00:01:53.50
+Tokyo,2020,200m Freestyle,Women,Swimming,HKG,Haughey,00:01:53.92
+Tokyo,2020,200m Freestyle,Women,Swimming,CAN,Oleksiak,00:01:54.70
+Tokyo,2020,200m Freestyle,Women,Swimming,CHN,Junxuan Yang,00:01:55.01
+Tokyo,2020,200m Freestyle,Women,Swimming,USA,Ledecky,00:01:55.21
+Tokyo,2020,200m Freestyle,Women,Swimming,CZE,Seemanova,00:01:55.45
+Tokyo,2020,200m Freestyle,Women,Swimming,ITA,Pellegrini,00:01:55.91
+Tokyo,2020,200m Freestyle,Women,Swimming,AUS,Wilson,00:01:56.39
+Tokyo,2020,200m Individual Medley,Women,Swimming,JPN,Yui Ohashi,00:02:08.52
+Tokyo,2020,200m Individual Medley,Women,Swimming,USA,Walsh,00:02:08.65
+Tokyo,2020,200m Individual Medley,Women,Swimming,GBR,Douglass,00:02:09.04
+Tokyo,2020,200m Individual Medley,Women,Swimming,GBR,Wood,00:02:09.15
+Tokyo,2020,200m Individual Medley,Women,Swimming,CHN,Yiting Yu,00:02:09.57
+Tokyo,2020,200m Individual Medley,Women,Swimming,CAN,Pickrem,00:02:10.05
+Tokyo,2020,200m Individual Medley,Women,Swimming,HUN,Hosszu,00:02:12.38
+Tokyo,2020,200m Individual Medley,Women,Swimming,GBR,Wilson,00:02:12.86
+Tokyo,2020,4x100m Freestyle Relay,Women,Swimming,AUS,,00:03:29.69
+Tokyo,2020,4x100m Freestyle Relay,Women,Swimming,CAN,,00:03:32.78
+Tokyo,2020,4x100m Freestyle Relay,Women,Swimming,USA,,00:03:32.81
+Tokyo,2020,4x100m Freestyle Relay,Women,Swimming,NED,,00:03:33.70
+Tokyo,2020,4x100m Freestyle Relay,Women,Swimming,GBR,,00:03:33.96
+Tokyo,2020,4x100m Freestyle Relay,Women,Swimming,SWE,,00:03:34.69
+Tokyo,2020,4x100m Freestyle Relay,Women,Swimming,CHN,,00:03:34.76
+Tokyo,2020,4x100m Freestyle Relay,Women,Swimming,DEN,,00:03:35.70
+Tokyo,2020,4x100m Medley Relay,Women,Swimming,AUS,,00:03:51.60
+Tokyo,2020,4x100m Medley Relay,Women,Swimming,USA,,00:03:51.73
+Tokyo,2020,4x100m Medley Relay,Women,Swimming,CAN,,00:03:52.60
+Tokyo,2020,4x100m Medley Relay,Women,Swimming,CHN,,00:03:54.13
+Tokyo,2020,4x100m Medley Relay,Women,Swimming,SWE,,00:03:54.27
+Tokyo,2020,4x100m Medley Relay,Women,Swimming,ITA,,00:03:56.68
+Tokyo,2020,4x100m Medley Relay,Women,Swimming,ROC,,00:03:56.93
+Tokyo,2020,4x100m Medley Relay,Women,Swimming,JPN,,00:03:58.12
+Tokyo,2020,4x200m Freestyle Relay,Women,Swimming,CHN,,00:07:40.33
+Tokyo,2020,4x200m Freestyle Relay,Women,Swimming,USA,,00:07:40.73
+Tokyo,2020,4x200m Freestyle Relay,Women,Swimming,AUS,,00:07:41.29
+Tokyo,2020,4x200m Freestyle Relay,Women,Swimming,CAN,,00:07:43.77
+Tokyo,2020,400m Freestyle,Women,Swimming,AUS,Titmus,00:03:56.69
+Tokyo,2020,400m Freestyle,Women,Swimming,USA,Ledecky,00:03:57.36
+Tokyo,2020,400m Freestyle,Women,Swimming,CHN,Bingjie Li,00:04:01.08
+Tokyo,2020,400m Freestyle,Women,Swimming,CAN,Mcintosh,00:04:02.42
+Tokyo,2020,400m Freestyle,Women,Swimming,CHN,Muhan Tang,00:04:04.10
+Tokyo,2020,400m Individual Medley,Women,Swimming,JPN,Yui Ohashi,00:04:32.08
+Tokyo,2020,400m Individual Medley,Women,Swimming,USA,Weyant,00:04:32.76
+Tokyo,2020,400m Individual Medley,Women,Swimming,USA,Flickinger,00:04:34.90
+Tokyo,2020,400m Individual Medley,Women,Swimming,ESP,Belmonte,00:04:35.13
+Tokyo,2020,50m Freestyle,Women,Swimming,AUS,Mckeon,00:00:23.81
+Tokyo,2020,50m Freestyle,Women,Swimming,SWE,Sjoestroem,00:00:24.07
+Tokyo,2020,50m Freestyle,Women,Swimming,DEN,Blume,00:00:24.21
+Tokyo,2020,50m Freestyle,Women,Swimming,DEN,Kromowidjojo,00:00:24.30
+Tokyo,2020,800m Freestyle,Women,Swimming,USA,Ledecky,00:08:12.57
+Tokyo,2020,800m Freestyle,Women,Swimming,AUS,Titmus,00:08:13.83
+Tokyo,2020,800m Freestyle,Women,Swimming,ITA,Quadarella,00:08:18.35
+Tokyo,2020,800m Freestyle,Women,Swimming,USA,Grimes,00:08:19.38
